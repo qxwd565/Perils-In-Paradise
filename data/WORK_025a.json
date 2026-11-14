@@ -1,1 +1,41 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"WORK_025a","dbfId":110790,"name":"공격적인 전망","type":"SPELL","cardClass":"DRUID","collectible":false,"cost":4,"text":"공격력 +2","attack":0,"health":0,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS32-336_S.tif:ca25d79d641c494c9a46d468b2c1acb7","set":"ISLAND_VACATION","nativeTags":[{"id":48,"name":"마나 비용","value":4},{"id":199,"name":"직업","value":2},{"id":202,"name":"카드 유형","value":5}],"races":[],"race":"","classes":[],"art":"art/WORK_025a.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS32-336_S.tif:ca25d79d641c494c9a46d468b2c1acb7","goldenMaterial":"WORK_025a_PremiumCard.mat:a1f40916b6039ec498faeb6b9e4f95e7","goldenAnimation":"WORK_025a_PremiumCard.asset:cf25a81212d1ffd438e179f40883410f"}}
+{
+  "2024-09-11": {
+    "id": "WORK_025a",
+    "dbfId": 110790,
+    "name": "공격적인 전망",
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "collectible": false,
+    "cost": 4,
+    "text": "공격력 +2",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS32-336_S.tif:ca25d79d641c494c9a46d468b2c1acb7",
+    "set": "ISLAND_VACATION",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 4
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 2
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/WORK_025a.png"
+  }
+}

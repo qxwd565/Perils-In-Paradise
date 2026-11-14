@@ -1,1 +1,46 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"WORK_027t2","dbfId":110821,"name":"호화로운 투어","type":"SPELL","cardClass":"NEUTRAL","collectible":false,"cost":0,"text":"마나를 많이 소모할 가능성이 있는\n무작위 카드 2장을 얻습니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS32-348_S.tif:55dcd766503c4086bdb12d9616ad7d76","set":"ISLAND_VACATION","nativeTags":[{"id":199,"name":"직업","value":12},{"id":201,"name":"진영","value":3},{"id":202,"name":"카드 유형","value":5},{"id":684,"name":"비용 숨김","value":1}],"races":[],"race":"","classes":[],"art":"art/WORK_027t2.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS32-348_S.tif:55dcd766503c4086bdb12d9616ad7d76","goldenMaterial":"WORK_027t2_PremiumCard.mat:a5bce4140c67d194db82a29d0ec02dd2","goldenAnimation":"WORK_027t2_PremiumCard.asset:57566112d097b774287af432d7b1ad61"}}
+{
+  "2024-09-11": {
+    "id": "WORK_027t2",
+    "dbfId": 110821,
+    "name": "호화로운 투어",
+    "type": "SPELL",
+    "cardClass": "NEUTRAL",
+    "collectible": false,
+    "cost": 0,
+    "text": "마나를 많이 소모할 가능성이 있는<br></br>무작위 카드 2장을 얻습니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS32-348_S.tif:55dcd766503c4086bdb12d9616ad7d76",
+    "set": "ISLAND_VACATION",
+    "nativeTags": [
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 201,
+        "name": "진영",
+        "value": 3
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 684,
+        "name": "비용 숨김",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/WORK_027t2.png"
+  }
+}

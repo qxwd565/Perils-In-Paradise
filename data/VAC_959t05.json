@@ -1,1 +1,51 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"VAC_959t05","dbfId":109034,"name":"추적의 부적","type":"SPELL","cardClass":"NEUTRAL","collectible":false,"cost":1,"text":"무작위 <b>전설</b> 카드를 3장 얻습니다. <i>(그 카드들을 <b>일반 카드</b>로 바꿉니다!)</i>","attack":0,"health":0,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS32-113_S.tif:bbc52b82068743518a3b2886ebc7e117","set":"ISLAND_VACATION","nativeTags":[{"id":2,"name":"효과 수치 1","value":109035},{"id":48,"name":"마나 비용","value":1},{"id":114,"name":"전설 속성","value":1},{"id":199,"name":"직업","value":12},{"id":202,"name":"카드 유형","value":5}],"races":[],"race":"","classes":[],"art":"art/VAC_959t05.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS32-113_S.tif:bbc52b82068743518a3b2886ebc7e117","goldenMaterial":"VAC_959t05_PremiumCard.mat:46ab212da79d1df439a9d8ad64469067","goldenAnimation":"VAC_959t05_PremiumCard.asset:fea44908b56b064468bd0206a4d66ea9"}}
+{
+  "2024-07-24": {
+    "id": "VAC_959t05",
+    "dbfId": 109034,
+    "name": "추적의 부적",
+    "type": "SPELL",
+    "cardClass": "NEUTRAL",
+    "collectible": false,
+    "cost": 1,
+    "text": "무작위 <b>전설</b> 카드를 3장 얻습니다. <i>(그 카드들을 <b>일반 카드</b>로 바꿉니다!)</i>",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS32-113_S.tif:bbc52b82068743518a3b2886ebc7e117",
+    "set": "ISLAND_VACATION",
+    "nativeTags": [
+      {
+        "id": 2,
+        "name": "효과 수치 1",
+        "value": 109035
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 1
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/VAC_959t05.png"
+  }
+}

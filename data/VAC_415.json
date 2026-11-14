@@ -1,1 +1,84 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"VAC_415","dbfId":106671,"name":"사스꽥","type":"MINION","cardClass":"HUNTER","rarity":"LEGENDARY","collectible":true,"cost":7,"text":"<b>전투의 함성:</b> 내가 이전 턴에 낸 모든 카드를 반복합니다.","attack":4,"health":5,"durability":0,"armor":0,"flavor":"내 지난 턴을 이번 턴으로 만들어 줍니다. 하지만 내가 이 카드를 다음 턴에 내면 다음 턴이 이번 턴이 되죠. 둘 다 하면 이번 턴이 지난 턴, 다음 턴이 이번 턴이 되고요. 그렇다면 지난 턴에 이번 다음 턴은 어느 턴일까요?","spellSchool":"","portrait":"HS32-050_M.tif:4fc9e911efea4032a59b03a39620be3b","set":"ISLAND_VACATION","nativeTags":[{"id":45,"name":"생명력","value":5},{"id":47,"name":"공격력","value":4},{"id":48,"name":"마나 비용","value":7},{"id":114,"name":"전설 속성","value":1},{"id":199,"name":"직업","value":3},{"id":200,"name":"종족","value":20},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":5},{"id":218,"name":"전투의 함성","value":1},{"id":321,"name":"수집 가능","value":1},{"id":1932,"name":"다이아몬드 카드 존재","value":1}],"races":["BEAST"],"race":"야수","classes":[],"art":"art/VAC_415.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS32-050_M.tif:4fc9e911efea4032a59b03a39620be3b","goldenMaterial":"VAC_415_PremiumCard.mat:689bb5839481b1346b276c83bc0955a2","goldenAnimation":"VAC_415_PremiumCard.asset:3b9e9ab584543064fa55a15c03a8bb6c"}}
+{
+  "2024-07-24": {
+    "id": "VAC_415",
+    "dbfId": 106671,
+    "name": "사스꽥",
+    "type": "MINION",
+    "cardClass": "HUNTER",
+    "rarity": "LEGENDARY",
+    "collectible": true,
+    "cost": 7,
+    "text": "<b>전투의 함성:</b> 내가 이전 턴에 낸 모든 카드를 반복합니다.",
+    "attack": 4,
+    "health": 5,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "내 지난 턴을 이번 턴으로 만들어 줍니다. 하지만 내가 이 카드를 다음 턴에 내면 다음 턴이 이번 턴이 되죠. 둘 다 하면 이번 턴이 지난 턴, 다음 턴이 이번 턴이 되고요. 그렇다면 지난 턴에 이번 다음 턴은 어느 턴일까요?",
+    "spellSchool": "",
+    "portrait": "HS32-050_M.tif:4fc9e911efea4032a59b03a39620be3b",
+    "set": "ISLAND_VACATION",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 5
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 4
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 7
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 3
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 20
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 5
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 1932,
+        "name": "다이아몬드 카드 존재",
+        "value": 1
+      }
+    ],
+    "races": [
+      "BEAST"
+    ],
+    "race": "야수",
+    "classes": [],
+    "art": "art/VAC_415.png"
+  }
+}

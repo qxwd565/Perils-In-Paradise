@@ -1,1 +1,61 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"VAC_321t","dbfId":106364,"name":"분출","type":"SPELL","cardClass":"NEUTRAL","collectible":false,"cost":1,"text":"<b>뽑을 때 시전</b>\n모든 적에게\n피해를 $1 줍니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"","spellSchool":"FIRE","portrait":"HS32-206_S.tif:f75c89d5096643118f86d61d81004cfd","set":"ISLAND_VACATION","nativeTags":[{"id":2,"name":"효과 수치 1","value":1},{"id":48,"name":"마나 비용","value":1},{"id":114,"name":"전설 속성","value":1},{"id":199,"name":"직업","value":12},{"id":202,"name":"카드 유형","value":5},{"id":1077,"name":"뽑을 때 시전","value":1},{"id":1635,"name":"주문 속성","value":2}],"races":[],"race":"","classes":[],"art":"art/VAC_321t.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS32-206_S.tif:f75c89d5096643118f86d61d81004cfd","goldenMaterial":"VAC_321t_PremiumCard.mat:277bf39bcca2cb442b804cf3bd68fa32","goldenAnimation":"VAC_321t_PremiumCard.asset:74ef8f7ea459d4240bf8248202d1d9ef"}}
+{
+  "2024-07-24": {
+    "id": "VAC_321t",
+    "dbfId": 106364,
+    "name": "분출",
+    "type": "SPELL",
+    "cardClass": "NEUTRAL",
+    "collectible": false,
+    "cost": 1,
+    "text": "<b>뽑을 때 시전</b><br></br>모든 적에게<br></br>피해를 $1 줍니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "FIRE",
+    "portrait": "HS32-206_S.tif:f75c89d5096643118f86d61d81004cfd",
+    "set": "ISLAND_VACATION",
+    "nativeTags": [
+      {
+        "id": 2,
+        "name": "효과 수치 1",
+        "value": 1
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 1
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 1077,
+        "name": "뽑을 때 시전",
+        "value": 1
+      },
+      {
+        "id": 1635,
+        "name": "주문 속성",
+        "value": 2
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/VAC_321t.png"
+  }
+}

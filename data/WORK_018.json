@@ -1,1 +1,79 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"WORK_018","dbfId":110772,"name":"일꾼 말","type":"MINION","cardClass":"HUNTER","rarity":"COMMON","collectible":true,"cost":3,"text":"<b>죽음의 메아리:</b>\n2/1 조랑말을 둘 소환합니다.","attack":4,"health":2,"durability":0,"armor":0,"flavor":"말이 여행사에 근무하면 안 되는 이유 하나만 말해 보시죠.","spellSchool":"","portrait":"HS32-324_M.tif:c104f4c1981f4a8698a1f5c858f99299","set":"ISLAND_VACATION","nativeTags":[{"id":45,"name":"생명력","value":2},{"id":47,"name":"공격력","value":4},{"id":48,"name":"마나 비용","value":3},{"id":199,"name":"직업","value":3},{"id":200,"name":"종족","value":20},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":1},{"id":217,"name":"죽음의 메아리","value":1},{"id":321,"name":"수집 가능","value":1},{"id":1824,"name":"미니 세트","value":1}],"races":["BEAST"],"race":"야수","classes":[],"art":"art/WORK_018.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS32-324_M.tif:c104f4c1981f4a8698a1f5c858f99299","goldenMaterial":"WORK_018_PremiumCard.mat:dea80ba5532cc2842905af888c9627c3","goldenAnimation":"WORK_018_PremiumCard.asset:1d2662865fcdda8469ad00fbdefee05c"}}
+{
+  "2024-09-11": {
+    "id": "WORK_018",
+    "dbfId": 110772,
+    "name": "일꾼 말",
+    "type": "MINION",
+    "cardClass": "HUNTER",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 3,
+    "text": "<b>죽음의 메아리:</b><br></br>2/1 조랑말을 둘 소환합니다.",
+    "attack": 4,
+    "health": 2,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "말이 여행사에 근무하면 안 되는 이유 하나만 말해 보시죠.",
+    "spellSchool": "",
+    "portrait": "HS32-324_M.tif:c104f4c1981f4a8698a1f5c858f99299",
+    "set": "ISLAND_VACATION",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 2
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 4
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 3
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 3
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 20
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 217,
+        "name": "죽음의 메아리",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 1824,
+        "name": "미니 세트",
+        "value": 1
+      }
+    ],
+    "races": [
+      "BEAST"
+    ],
+    "race": "야수",
+    "classes": [],
+    "art": "art/WORK_018.png"
+  }
+}

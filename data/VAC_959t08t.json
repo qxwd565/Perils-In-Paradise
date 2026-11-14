@@ -1,1 +1,51 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"VAC_959t08t","dbfId":109041,"name":"기력의 부적","type":"SPELL","cardClass":"NEUTRAL","collectible":false,"cost":1,"text":"내 영웅이 생명력을\n#12 회복합니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS32-120_S.tif:17968ae0b5d54bb58ca5cc0ef8284890","set":"ISLAND_VACATION","nativeTags":[{"id":2,"name":"효과 수치 1","value":109040},{"id":48,"name":"마나 비용","value":1},{"id":114,"name":"전설 속성","value":1},{"id":199,"name":"직업","value":12},{"id":202,"name":"카드 유형","value":5}],"races":[],"race":"","classes":[],"art":"art/VAC_959t08t.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS32-120_S.tif:17968ae0b5d54bb58ca5cc0ef8284890","goldenMaterial":"VAC_959t08t_PremiumCard.mat:af43608449bc64b40b407cb1d0b9cd91","goldenAnimation":"VAC_959t08t_PremiumCard.asset:e745ce3213e97c3439a951e3d82fe2d7"}}
+{
+  "2024-07-24": {
+    "id": "VAC_959t08t",
+    "dbfId": 109041,
+    "name": "기력의 부적",
+    "type": "SPELL",
+    "cardClass": "NEUTRAL",
+    "collectible": false,
+    "cost": 1,
+    "text": "내 영웅이 생명력을<br></br>#12 회복합니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS32-120_S.tif:17968ae0b5d54bb58ca5cc0ef8284890",
+    "set": "ISLAND_VACATION",
+    "nativeTags": [
+      {
+        "id": 2,
+        "name": "효과 수치 1",
+        "value": 109040
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 1
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/VAC_959t08t.png"
+  }
+}

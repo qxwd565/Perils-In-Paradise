@@ -1,1 +1,67 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"VAC_513","dbfId":105854,"name":"미끄러운 슬로프","type":"SPELL","cardClass":"DEATHKNIGHT","rarity":"EPIC","collectible":true,"cost":2,"text":"캐릭터를 <b>빙결</b> 상태로 만듭니다. <b>빙결</b> 상태인 캐릭터의 수만큼 카드를 뽑습니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"여기서부터는 쭉 내리막입니다.","spellSchool":"FROST","portrait":"HS32-148_S.tif:6895878a86074ed3b4272566f11893b5","set":"ISLAND_VACATION","nativeTags":[{"id":48,"name":"마나 비용","value":2},{"id":199,"name":"직업","value":1},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":4},{"id":208,"name":"빙결","value":1},{"id":321,"name":"수집 가능","value":1},{"id":1635,"name":"주문 속성","value":3},{"id":2197,"name":"냉기 룬","value":2}],"races":[],"race":"","classes":[],"art":"art/VAC_513.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS32-148_S.tif:6895878a86074ed3b4272566f11893b5","goldenMaterial":"VAC_513_PremiumCard.mat:e4ec95f5bf93cb442afdfd4597fc5a80","goldenAnimation":"VAC_513_PremiumCard.asset:e2f31b9f7af93454eb52a1e9956a42ae"}}
+{
+  "2024-07-24": {
+    "id": "VAC_513",
+    "dbfId": 105854,
+    "name": "미끄러운 슬로프",
+    "type": "SPELL",
+    "cardClass": "DEATHKNIGHT",
+    "rarity": "EPIC",
+    "collectible": true,
+    "cost": 2,
+    "text": "캐릭터를 <b>빙결</b> 상태로 만듭니다. <b>빙결</b> 상태인 캐릭터의 수만큼 카드를 뽑습니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "여기서부터는 쭉 내리막입니다.",
+    "spellSchool": "FROST",
+    "portrait": "HS32-148_S.tif:6895878a86074ed3b4272566f11893b5",
+    "set": "ISLAND_VACATION",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 2
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 1
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 4
+      },
+      {
+        "id": 208,
+        "name": "빙결",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 1635,
+        "name": "주문 속성",
+        "value": 3
+      },
+      {
+        "id": 2197,
+        "name": "냉기 룬",
+        "value": 2
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/VAC_513.png"
+  }
+}

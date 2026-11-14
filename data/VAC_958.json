@@ -1,1 +1,84 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"VAC_958","dbfId":108950,"name":"적응형 융합체","type":"MINION","cardClass":"NEUTRAL","rarity":"EPIC","collectible":true,"cost":1,"text":"<i>모든 종족값을 가집니다.</i>\n<b>죽음의 메아리:</b> 이 하수인을\n내 덱에 섞어 넣습니다\n모든 강화 효과가\n유지됩니다.","attack":1,"health":2,"durability":0,"armor":0,"flavor":"바다에서 우리가 가 본 곳은 전체 면적의 5%밖에 되지 않습니다. 따라서 이 그림은 95%의 확률로 정확합니다.","spellSchool":"","portrait":"HS32-103_M.tif:e50533abac9344f5974ec9efcbe53311","set":"ISLAND_VACATION","nativeTags":[{"id":45,"name":"생명력","value":2},{"id":47,"name":"공격력","value":1},{"id":48,"name":"마나 비용","value":1},{"id":199,"name":"직업","value":12},{"id":200,"name":"종족","value":26},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":4},{"id":217,"name":"죽음의 메아리","value":1},{"id":321,"name":"수집 가능","value":1},{"id":542,"name":"게임 태그 542","value":1},{"id":2589,"name":"간판 카드 존재","value":1}],"races":["ALL"],"race":"모든 종족","classes":[],"art":"art/VAC_958.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS32-103_M.tif:e50533abac9344f5974ec9efcbe53311","goldenMaterial":"VAC_958_PremiumCard.mat:1d1b662eae60fd84ba9a6e4ec16dcaf3","goldenAnimation":"VAC_958_PremiumCard.asset:0b1819890f1c8164bae0683f5e4f50c9"}}
+{
+  "2024-07-24": {
+    "id": "VAC_958",
+    "dbfId": 108950,
+    "name": "적응형 융합체",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "rarity": "EPIC",
+    "collectible": true,
+    "cost": 1,
+    "text": "<i>모든 종족값을 가집니다.</i><br></br><b>죽음의 메아리:</b> 이 하수인을<br></br>내 덱에 섞어 넣습니다<br></br>모든 강화 효과가<br></br>유지됩니다.",
+    "attack": 1,
+    "health": 2,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "바다에서 우리가 가 본 곳은 전체 면적의 5%밖에 되지 않습니다. 따라서 이 그림은 95%의 확률로 정확합니다.",
+    "spellSchool": "",
+    "portrait": "HS32-103_M.tif:e50533abac9344f5974ec9efcbe53311",
+    "set": "ISLAND_VACATION",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 2
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 1
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 26
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 4
+      },
+      {
+        "id": 217,
+        "name": "죽음의 메아리",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 542,
+        "name": "게임 태그 542",
+        "value": 1
+      },
+      {
+        "id": 2589,
+        "name": "간판 카드 존재",
+        "value": 1
+      }
+    ],
+    "races": [
+      "ALL"
+    ],
+    "race": "모든 종족",
+    "classes": [],
+    "art": "art/VAC_958.png"
+  }
+}

@@ -1,1 +1,79 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"VAC_934","dbfId":106714,"name":"떠밀려 온 고래","type":"MINION","cardClass":"NEUTRAL","rarity":"COMMON","collectible":true,"cost":7,"text":"<b>도발</b>, <b>전투의 함성:</b> 자신에게 피해를\n10 줍니다.","attack":4,"health":20,"durability":0,"armor":0,"flavor":"나를 일리단이라 불러 다오. 정확히 얼마나 오래 전인지는 모르겠지만 몇 년 전, 지갑에 돈도 없다시피 하고 아제로스에 딱히 재미있는 것도 없어서, 조금 날아다니면서 세상의 악마적인 부분을 구경할까 생각했지...","spellSchool":"","portrait":"HS32-099_M.tif:162b5611725b4dd3a8c05c1dc352d019","set":"ISLAND_VACATION","nativeTags":[{"id":45,"name":"생명력","value":20},{"id":47,"name":"공격력","value":4},{"id":48,"name":"마나 비용","value":7},{"id":190,"name":"도발","value":1},{"id":199,"name":"직업","value":12},{"id":200,"name":"종족","value":20},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":1},{"id":218,"name":"전투의 함성","value":1},{"id":321,"name":"수집 가능","value":1}],"races":["BEAST"],"race":"야수","classes":[],"art":"art/VAC_934.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS32-099_M.tif:162b5611725b4dd3a8c05c1dc352d019","goldenMaterial":"VAC_934_PremiumCard.mat:a36e7a3f695bee94ca4f71040b4cb69c","goldenAnimation":"VAC_934_PremiumCard.asset:a55b0fb1aa44ab4439cc04a0faf62105"}}
+{
+  "2024-07-24": {
+    "id": "VAC_934",
+    "dbfId": 106714,
+    "name": "떠밀려 온 고래",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 7,
+    "text": "<b>도발</b>, <b>전투의 함성:</b> 자신에게 피해를<br></br>10 줍니다.",
+    "attack": 4,
+    "health": 20,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "나를 일리단이라 불러 다오. 정확히 얼마나 오래 전인지는 모르겠지만 몇 년 전, 지갑에 돈도 없다시피 하고 아제로스에 딱히 재미있는 것도 없어서, 조금 날아다니면서 세상의 악마적인 부분을 구경할까 생각했지...",
+    "spellSchool": "",
+    "portrait": "HS32-099_M.tif:162b5611725b4dd3a8c05c1dc352d019",
+    "set": "ISLAND_VACATION",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 20
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 4
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 7
+      },
+      {
+        "id": 190,
+        "name": "도발",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 20
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      }
+    ],
+    "races": [
+      "BEAST"
+    ],
+    "race": "야수",
+    "classes": [],
+    "art": "art/VAC_934.png"
+  }
+}

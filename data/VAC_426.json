@@ -1,1 +1,100 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"VAC_426","dbfId":107720,"name":"엘리자 고어블레이드","type":"MINION","cardClass":"DEATHKNIGHT","rarity":"LEGENDARY","collectible":true,"cost":4,"text":"<b>죽음의 메아리:</b>\n이번 게임 동안\n내 하수인들이 공격력을 +1 얻습니다.","attack":4,"health":3,"durability":0,"armor":0,"flavor":"죽은 자는 말이 없지만, 언데드 해적은 수다쟁이입니다.","spellSchool":"","portrait":"HS32-024_M.tif:0ff8251d8b2a43d38f98efa7a1c040f2","set":"ISLAND_VACATION","nativeTags":[{"id":45,"name":"생명력","value":3},{"id":47,"name":"공격력","value":4},{"id":48,"name":"마나 비용","value":4},{"id":114,"name":"전설 속성","value":1},{"id":199,"name":"직업","value":1},{"id":200,"name":"종족","value":23},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":5},{"id":217,"name":"죽음의 메아리","value":1},{"id":321,"name":"수집 가능","value":1},{"id":1932,"name":"다이아몬드 카드 존재","value":1},{"id":2196,"name":"혈기 룬","value":1},{"id":2197,"name":"냉기 룬","value":1},{"id":2534,"name":"게임 태그 2534","value":1}],"races":["UNDEAD","PIRATE"],"race":"언데드, 해적","classes":[],"art":"art/VAC_426.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS32-024_M.tif:0ff8251d8b2a43d38f98efa7a1c040f2","goldenMaterial":"VAC_426_PremiumCard.mat:65a072a1394fd22488fd247ac527528d","goldenAnimation":"VAC_426_PremiumCard.asset:767518265d43b2b4fa0c708112a9e47c"}}
+{
+  "2024-07-24": {
+    "id": "VAC_426",
+    "dbfId": 107720,
+    "name": "엘리자 고어블레이드",
+    "type": "MINION",
+    "cardClass": "DEATHKNIGHT",
+    "rarity": "LEGENDARY",
+    "collectible": true,
+    "cost": 4,
+    "text": "<b>죽음의 메아리:</b><br></br>이번 게임 동안<br></br>내 하수인들이 공격력을 +1 얻습니다.",
+    "attack": 4,
+    "health": 3,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "죽은 자는 말이 없지만, 언데드 해적은 수다쟁이입니다.",
+    "spellSchool": "",
+    "portrait": "HS32-024_M.tif:0ff8251d8b2a43d38f98efa7a1c040f2",
+    "set": "ISLAND_VACATION",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 3
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 4
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 4
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 1
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 23
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 5
+      },
+      {
+        "id": 217,
+        "name": "죽음의 메아리",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 1932,
+        "name": "다이아몬드 카드 존재",
+        "value": 1
+      },
+      {
+        "id": 2196,
+        "name": "혈기 룬",
+        "value": 1
+      },
+      {
+        "id": 2197,
+        "name": "냉기 룬",
+        "value": 1
+      },
+      {
+        "id": 2534,
+        "name": "게임 태그 2534",
+        "value": 1
+      }
+    ],
+    "races": [
+      "UNDEAD",
+      "PIRATE"
+    ],
+    "race": "언데드, 해적",
+    "classes": [],
+    "art": "art/VAC_426.png"
+  }
+}

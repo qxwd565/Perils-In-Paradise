@@ -1,1 +1,58 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"VAC_445t","dbfId":108437,"name":"영면 구울","type":"MINION","cardClass":"DEATHKNIGHT","collectible":false,"cost":1,"text":"","attack":1,"health":1,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS32-152_M.tif:cb74779bfe994cac9083a7a6eff5a77f","set":"ISLAND_VACATION","nativeTags":[{"id":45,"name":"생명력","value":1},{"id":47,"name":"공격력","value":1},{"id":48,"name":"마나 비용","value":1},{"id":199,"name":"직업","value":1},{"id":200,"name":"종족","value":11},{"id":202,"name":"카드 유형","value":4}],"races":["UNDEAD"],"race":"언데드","classes":[],"art":"art/VAC_445t.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS32-152_M.tif:cb74779bfe994cac9083a7a6eff5a77f","goldenMaterial":"VAC_445t_PremiumCard.mat:d968930014c771344ba9d80c9d4cb708","goldenAnimation":"VAC_445t_PremiumCard.asset:723ac707866ffed479af9de066db440b"}}
+{
+  "2024-07-24": {
+    "id": "VAC_445t",
+    "dbfId": 108437,
+    "name": "영면 구울",
+    "type": "MINION",
+    "cardClass": "DEATHKNIGHT",
+    "collectible": false,
+    "cost": 1,
+    "text": "",
+    "attack": 1,
+    "health": 1,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS32-152_M.tif:cb74779bfe994cac9083a7a6eff5a77f",
+    "set": "ISLAND_VACATION",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 1
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 1
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 1
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 11
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      }
+    ],
+    "races": [
+      "UNDEAD"
+    ],
+    "race": "언데드",
+    "classes": [],
+    "art": "art/VAC_445t.png"
+  }
+}

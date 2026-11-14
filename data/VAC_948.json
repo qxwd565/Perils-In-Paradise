@@ -1,1 +1,67 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"VAC_948","dbfId":107856,"name":"물 공급지","type":"SPELL","cardClass":"DRUID","rarity":"RARE","collectible":true,"cost":8,"text":"비용이 가장 높은 내 서로 다른 <b>도발</b> 하수인 셋을 부활시킵니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"떼를 지어 물을 마시고 있네요... 떼를 지어 물을 마시는 습성이 있나 봐요.","spellSchool":"","portrait":"HS32-066_S.tif:b8291bf696424733887aa994b6fbba5e","set":"ISLAND_VACATION","nativeTags":[{"id":2,"name":"효과 수치 1","value":1},{"id":48,"name":"마나 비용","value":8},{"id":190,"name":"도발","value":1},{"id":199,"name":"직업","value":2},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":3},{"id":321,"name":"수집 가능","value":1},{"id":2589,"name":"간판 카드 존재","value":1}],"races":[],"race":"","classes":[],"art":"art/VAC_948.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS32-066_S.tif:b8291bf696424733887aa994b6fbba5e","goldenMaterial":"VAC_948_PremiumCard.mat:4ded952269b73a34ea15bfd083374349","goldenAnimation":"VAC_948_PremiumCard.asset:d46f99bb38847e448acf34d9fa136a7f"}}
+{
+  "2024-07-24": {
+    "id": "VAC_948",
+    "dbfId": 107856,
+    "name": "물 공급지",
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "rarity": "RARE",
+    "collectible": true,
+    "cost": 8,
+    "text": "비용이 가장 높은 내 서로 다른 <b>도발</b> 하수인 셋을 부활시킵니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "떼를 지어 물을 마시고 있네요... 떼를 지어 물을 마시는 습성이 있나 봐요.",
+    "spellSchool": "",
+    "portrait": "HS32-066_S.tif:b8291bf696424733887aa994b6fbba5e",
+    "set": "ISLAND_VACATION",
+    "nativeTags": [
+      {
+        "id": 2,
+        "name": "효과 수치 1",
+        "value": 1
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 8
+      },
+      {
+        "id": 190,
+        "name": "도발",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 2
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 2589,
+        "name": "간판 카드 존재",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/VAC_948.png"
+  }
+}

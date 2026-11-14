@@ -1,1 +1,57 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"VAC_931","dbfId":106616,"name":"스쳐 가는 죽음","type":"SPELL","cardClass":"DEMONHUNTER","rarity":"RARE","collectible":true,"cost":3,"text":"하수인을 선택합니다. 이번 턴에 내 영웅이 그 하수인의 공격력을 4 가져옵니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"스르륵 *죽음* 스르륵","spellSchool":"SHADOW","portrait":"HS32-167_S.tif:6d9a1b1017d84bf59190c273ae3f1b0a","set":"ISLAND_VACATION","nativeTags":[{"id":48,"name":"마나 비용","value":3},{"id":199,"name":"직업","value":14},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":3},{"id":321,"name":"수집 가능","value":1},{"id":1635,"name":"주문 속성","value":6}],"races":[],"race":"","classes":[],"art":"art/VAC_931.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS32-167_S.tif:6d9a1b1017d84bf59190c273ae3f1b0a","goldenMaterial":"VAC_931_PremiumCard.mat:528a73c23cf398442bbfacf26378c3e4","goldenAnimation":"VAC_931_PremiumCard.asset:8c0f7fec33c9c6f49b24569438a532e0"}}
+{
+  "2024-07-24": {
+    "id": "VAC_931",
+    "dbfId": 106616,
+    "name": "스쳐 가는 죽음",
+    "type": "SPELL",
+    "cardClass": "DEMONHUNTER",
+    "rarity": "RARE",
+    "collectible": true,
+    "cost": 3,
+    "text": "하수인을 선택합니다. 이번 턴에 내 영웅이 그 하수인의 공격력을 4 가져옵니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "스르륵 *죽음* 스르륵",
+    "spellSchool": "SHADOW",
+    "portrait": "HS32-167_S.tif:6d9a1b1017d84bf59190c273ae3f1b0a",
+    "set": "ISLAND_VACATION",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 3
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 14
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 1635,
+        "name": "주문 속성",
+        "value": 6
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/VAC_931.png"
+  }
+}

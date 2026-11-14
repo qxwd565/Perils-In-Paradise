@@ -1,1 +1,41 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"VAC_917t","dbfId":106548,"name":"자외선 차단제","type":"SPELL","cardClass":"PALADIN","collectible":false,"cost":1,"text":"하수인에게 +1/+2를 부여합니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS32-132_S.tif:02c402e8b1cf4029a2eb4481728214cf","set":"ISLAND_VACATION","nativeTags":[{"id":48,"name":"마나 비용","value":1},{"id":199,"name":"직업","value":5},{"id":202,"name":"카드 유형","value":5}],"races":[],"race":"","classes":[],"art":"art/VAC_917t.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS32-132_S.tif:02c402e8b1cf4029a2eb4481728214cf","goldenMaterial":"VAC_917t_PremiumCard.mat:18e70bf8dc99e6346930a70d660c31be","goldenAnimation":"VAC_917t_PremiumCard.asset:de0764d80daf8704bae337ed039232d5"}}
+{
+  "2024-07-24": {
+    "id": "VAC_917t",
+    "dbfId": 106548,
+    "name": "자외선 차단제",
+    "type": "SPELL",
+    "cardClass": "PALADIN",
+    "collectible": false,
+    "cost": 1,
+    "text": "하수인에게 +1/+2를 부여합니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS32-132_S.tif:02c402e8b1cf4029a2eb4481728214cf",
+    "set": "ISLAND_VACATION",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 5
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/VAC_917t.png"
+  }
+}

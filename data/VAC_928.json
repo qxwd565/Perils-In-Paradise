@@ -1,1 +1,57 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"VAC_928","dbfId":106591,"name":"패러글라이딩","type":"SPELL","cardClass":"DEMONHUNTER","rarity":"RARE","collectible":true,"cost":3,"text":"두 플레이어 모두 카드를 3장 뽑습니다.\n<b>추방자:</b> 나만 뽑습니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"여기서 내 손이 보여!","spellSchool":"","portrait":"HS32-034_S.tif:2aa725cedeb342a2a65b30ace12c4948","set":"ISLAND_VACATION","nativeTags":[{"id":48,"name":"마나 비용","value":3},{"id":199,"name":"직업","value":14},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":3},{"id":321,"name":"수집 가능","value":1},{"id":1333,"name":"추방자","value":1}],"races":[],"race":"","classes":[],"art":"art/VAC_928.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS32-034_S.tif:2aa725cedeb342a2a65b30ace12c4948","goldenMaterial":"VAC_928_PremiumCard.mat:240e2028c90a623499714b37f1c7e292","goldenAnimation":"VAC_928_PremiumCard.asset:27f4d7049ae051946a51b64d21aba972"}}
+{
+  "2024-07-24": {
+    "id": "VAC_928",
+    "dbfId": 106591,
+    "name": "패러글라이딩",
+    "type": "SPELL",
+    "cardClass": "DEMONHUNTER",
+    "rarity": "RARE",
+    "collectible": true,
+    "cost": 3,
+    "text": "두 플레이어 모두 카드를 3장 뽑습니다.<br></br><b>추방자:</b> 나만 뽑습니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "여기서 내 손이 보여!",
+    "spellSchool": "",
+    "portrait": "HS32-034_S.tif:2aa725cedeb342a2a65b30ace12c4948",
+    "set": "ISLAND_VACATION",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 3
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 14
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 1333,
+        "name": "추방자",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/VAC_928.png"
+  }
+}

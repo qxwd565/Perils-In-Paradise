@@ -1,1 +1,87 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"WORK_070","dbfId":111485,"name":"영혼 탐색","type":"SPELL","cardClass":"DEATHKNIGHT","rarity":"COMMON","collectible":true,"cost":2,"text":"내 덱에서 카드를 <b>발견</b>합니다. <b>시체</b>를 5개 소모하여 그 카드를 복사합니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"Ctrl-F '영혼'","spellSchool":"SHADOW","portrait":"HS32-311_S.tif:4c9b8542b46d4f40aac2a77021c90bd9","set":"ISLAND_VACATION","nativeTags":[{"id":48,"name":"마나 비용","value":2},{"id":199,"name":"직업","value":1},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":1},{"id":321,"name":"수집 가능","value":1},{"id":415,"name":"발견","value":1},{"id":1342,"name":"발견 시각 효과","value":1},{"id":1635,"name":"주문 속성","value":6},{"id":1824,"name":"미니 세트","value":1},{"id":2198,"name":"부정 룬","value":2},{"id":2559,"name":"시체","value":1},{"id":4058,"name":"시체 소모","value":1}],"races":[],"race":"","classes":[],"art":"art/WORK_070.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS32-311_S.tif:4c9b8542b46d4f40aac2a77021c90bd9","goldenMaterial":"WORK_070_PremiumCard.mat:8a2dad2bb3bdfd0488152895e176d94d","goldenAnimation":"WORK_070_PremiumCard.asset:31f9065df0ddc5f4d96c2d361ca6cceb"}}
+{
+  "2024-09-11": {
+    "id": "WORK_070",
+    "dbfId": 111485,
+    "name": "영혼 탐색",
+    "type": "SPELL",
+    "cardClass": "DEATHKNIGHT",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 2,
+    "text": "내 덱에서 카드를 <b>발견</b>합니다. <b>시체</b>를 5개 소모하여 그 카드를 복사합니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "Ctrl-F '영혼'",
+    "spellSchool": "SHADOW",
+    "portrait": "HS32-311_S.tif:4c9b8542b46d4f40aac2a77021c90bd9",
+    "set": "ISLAND_VACATION",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 2
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 1
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 415,
+        "name": "발견",
+        "value": 1
+      },
+      {
+        "id": 1342,
+        "name": "발견 시각 효과",
+        "value": 1
+      },
+      {
+        "id": 1635,
+        "name": "주문 속성",
+        "value": 6
+      },
+      {
+        "id": 1824,
+        "name": "미니 세트",
+        "value": 1
+      },
+      {
+        "id": 2198,
+        "name": "부정 룬",
+        "value": 2
+      },
+      {
+        "id": 2559,
+        "name": "시체",
+        "value": 1
+      },
+      {
+        "id": 4058,
+        "name": "시체 소모",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/WORK_070.png"
+  }
+}

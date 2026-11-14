@@ -1,1 +1,74 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"VAC_935","dbfId":106715,"name":"휴대용 구더기","type":"MINION","cardClass":"NEUTRAL","rarity":"EPIC","collectible":true,"cost":4,"text":"<b>전투의 함성:</b> 비용이\n1인 여행 가방을 얻습니다.\n내 다음 카드 2장을\n그 가방에 넣습니다.","attack":5,"health":4,"durability":0,"armor":0,"flavor":"일찍 일어나는 벌레가 먼저 탑승합니다.","spellSchool":"","portrait":"HS32-100_M.tif:03f8d59d4ef8417087dad993d8c87d7b","set":"ISLAND_VACATION","nativeTags":[{"id":45,"name":"생명력","value":4},{"id":47,"name":"공격력","value":5},{"id":48,"name":"마나 비용","value":4},{"id":199,"name":"직업","value":12},{"id":200,"name":"종족","value":20},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":4},{"id":218,"name":"전투의 함성","value":1},{"id":321,"name":"수집 가능","value":1}],"races":["BEAST"],"race":"야수","classes":[],"art":"art/VAC_935.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS32-100_M.tif:03f8d59d4ef8417087dad993d8c87d7b","goldenMaterial":"VAC_935_PremiumCard.mat:70d7bc777ed12d047b16a479066dee38","goldenAnimation":"VAC_935_PremiumCard.asset:eca20e47b0eb2804786b473748547d5d"}}
+{
+  "2024-07-24": {
+    "id": "VAC_935",
+    "dbfId": 106715,
+    "name": "휴대용 구더기",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "rarity": "EPIC",
+    "collectible": true,
+    "cost": 4,
+    "text": "<b>전투의 함성:</b> 비용이<br></br>1인 여행 가방을 얻습니다.<br></br>내 다음 카드 2장을<br></br>그 가방에 넣습니다.",
+    "attack": 5,
+    "health": 4,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "일찍 일어나는 벌레가 먼저 탑승합니다.",
+    "spellSchool": "",
+    "portrait": "HS32-100_M.tif:03f8d59d4ef8417087dad993d8c87d7b",
+    "set": "ISLAND_VACATION",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 4
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 5
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 4
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 20
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 4
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      }
+    ],
+    "races": [
+      "BEAST"
+    ],
+    "race": "야수",
+    "classes": [],
+    "art": "art/VAC_935.png"
+  }
+}

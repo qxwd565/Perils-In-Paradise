@@ -1,1 +1,57 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"VAC_508","dbfId":105795,"name":"등산용 간식","type":"SPELL","cardClass":"DRUID","rarity":"COMMON","collectible":true,"cost":2,"text":"다음 턴에만 마나 수정을 2개 얻습니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"건포도가 안 든 걸 보면, 이 게임이 현실 고증은 못 챙겼지만 옳게 만들었다는 것을 알 수 있습니다.","spellSchool":"NATURE","portrait":"HS32-063_S.tif:416c4b521866476b9e3e1e5a290b42dd","set":"ISLAND_VACATION","nativeTags":[{"id":48,"name":"마나 비용","value":2},{"id":199,"name":"직업","value":2},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":1},{"id":321,"name":"수집 가능","value":1},{"id":1635,"name":"주문 속성","value":4}],"races":[],"race":"","classes":[],"art":"art/VAC_508.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS32-063_S.tif:416c4b521866476b9e3e1e5a290b42dd","goldenMaterial":"VAC_508_PremiumCard.mat:4a20360fe11d7fb44a1e3108904f8dfa","goldenAnimation":"VAC_508_PremiumCard.asset:b2f2bc6a657bf1d4aa320660207069bf"}}
+{
+  "2024-07-24": {
+    "id": "VAC_508",
+    "dbfId": 105795,
+    "name": "등산용 간식",
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 2,
+    "text": "다음 턴에만 마나 수정을 2개 얻습니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "건포도가 안 든 걸 보면, 이 게임이 현실 고증은 못 챙겼지만 옳게 만들었다는 것을 알 수 있습니다.",
+    "spellSchool": "NATURE",
+    "portrait": "HS32-063_S.tif:416c4b521866476b9e3e1e5a290b42dd",
+    "set": "ISLAND_VACATION",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 2
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 2
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 1635,
+        "name": "주문 속성",
+        "value": 4
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/VAC_508.png"
+  }
+}

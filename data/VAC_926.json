@@ -1,1 +1,57 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"VAC_926","dbfId":106583,"name":"절벽 다이빙","type":"SPELL","cardClass":"DEMONHUNTER","rarity":"EPIC","collectible":true,"cost":6,"text":"내 덱에서 하수인을 둘 소환하고 <b>속공</b>을 부여합니다.\n내 턴이 끝날 때 그 하수인들이\n덱으로 돌아갑니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"\"이거 안전한 거죠?\" \"물론입니다. 갈아 치울 해적이 많거든요.\"","spellSchool":"","portrait":"HS32-030_S.tif:d5f0c86be21c40ed9574ffe47cbee138","set":"ISLAND_VACATION","nativeTags":[{"id":48,"name":"마나 비용","value":6},{"id":199,"name":"직업","value":14},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":4},{"id":321,"name":"수집 가능","value":1},{"id":791,"name":"속공","value":1}],"races":[],"race":"","classes":[],"art":"art/VAC_926.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS32-030_S.tif:d5f0c86be21c40ed9574ffe47cbee138","goldenMaterial":"VAC_926_PremiumCard.mat:44ae1a5413062f845a848c8395fee773","goldenAnimation":"VAC_926_PremiumCard.asset:850cd625c392ecc44b321da31ab33bfc"}}
+{
+  "2024-07-24": {
+    "id": "VAC_926",
+    "dbfId": 106583,
+    "name": "절벽 다이빙",
+    "type": "SPELL",
+    "cardClass": "DEMONHUNTER",
+    "rarity": "EPIC",
+    "collectible": true,
+    "cost": 6,
+    "text": "내 덱에서 하수인을 둘 소환하고 <b>속공</b>을 부여합니다.<br></br>내 턴이 끝날 때 그 하수인들이<br></br>덱으로 돌아갑니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "\"이거 안전한 거죠?\" \"물론입니다. 갈아 치울 해적이 많거든요.\"",
+    "spellSchool": "",
+    "portrait": "HS32-030_S.tif:d5f0c86be21c40ed9574ffe47cbee138",
+    "set": "ISLAND_VACATION",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 6
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 14
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 4
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 791,
+        "name": "속공",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/VAC_926.png"
+  }
+}

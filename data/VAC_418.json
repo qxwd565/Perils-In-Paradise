@@ -1,1 +1,79 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"VAC_418","dbfId":106708,"name":"사우나 단골","type":"MINION","cardClass":"PRIEST","rarity":"RARE","collectible":true,"cost":5,"text":"<b>도발</b>\n내 턴에 내 영웅이 피해를 받을 때마다 비용이 (1) 감소합니다.","attack":5,"health":5,"durability":0,"armor":0,"flavor":"\"살이 절로 뼈에서 떨어질\" 만큼 푹 삶아지고 있습니다.","spellSchool":"","portrait":"HS32-171_M.tif:4e70aff596224badb2f8058822a2d866","set":"ISLAND_VACATION","nativeTags":[{"id":45,"name":"생명력","value":5},{"id":47,"name":"공격력","value":5},{"id":48,"name":"마나 비용","value":5},{"id":190,"name":"도발","value":1},{"id":199,"name":"직업","value":6},{"id":200,"name":"종족","value":11},{"id":201,"name":"진영","value":3},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":3},{"id":321,"name":"수집 가능","value":1}],"races":["UNDEAD"],"race":"언데드","classes":[],"art":"art/VAC_418.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS32-171_M.tif:4e70aff596224badb2f8058822a2d866","goldenMaterial":"VAC_418_PremiumCard.mat:c21fec514b7b5c94abc1688c909f289a","goldenAnimation":"VAC_418_PremiumCard.asset:30c27cc9870db7843babecec6b28ee66"}}
+{
+  "2024-07-24": {
+    "id": "VAC_418",
+    "dbfId": 106708,
+    "name": "사우나 단골",
+    "type": "MINION",
+    "cardClass": "PRIEST",
+    "rarity": "RARE",
+    "collectible": true,
+    "cost": 5,
+    "text": "<b>도발</b><br></br>내 턴에 내 영웅이 피해를 받을 때마다 비용이 (1) 감소합니다.",
+    "attack": 5,
+    "health": 5,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "\"살이 절로 뼈에서 떨어질\" 만큼 푹 삶아지고 있습니다.",
+    "spellSchool": "",
+    "portrait": "HS32-171_M.tif:4e70aff596224badb2f8058822a2d866",
+    "set": "ISLAND_VACATION",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 5
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 5
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 5
+      },
+      {
+        "id": 190,
+        "name": "도발",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 6
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 11
+      },
+      {
+        "id": 201,
+        "name": "진영",
+        "value": 3
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      }
+    ],
+    "races": [
+      "UNDEAD"
+    ],
+    "race": "언데드",
+    "classes": [],
+    "art": "art/VAC_418.png"
+  }
+}

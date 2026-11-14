@@ -1,1 +1,74 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"VAC_341","dbfId":107771,"name":"덜 요리된 오징어","type":"MINION","cardClass":"WARRIOR","rarity":"RARE","collectible":true,"cost":4,"text":"<b>전투의 함성:</b> 공격력이\n이 하수인의 공격력 이하인\n적 하수인을 처치합니다.","attack":3,"health":4,"durability":0,"armor":0,"flavor":"물회로 말아 드세요.","spellSchool":"","portrait":"HS32-187_M.tif:6e2059e8d9a2419a94de051c08602083","set":"ISLAND_VACATION","nativeTags":[{"id":45,"name":"생명력","value":4},{"id":47,"name":"공격력","value":3},{"id":48,"name":"마나 비용","value":4},{"id":199,"name":"직업","value":10},{"id":200,"name":"종족","value":20},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":3},{"id":218,"name":"전투의 함성","value":1},{"id":321,"name":"수집 가능","value":1}],"races":["BEAST"],"race":"야수","classes":[],"art":"art/VAC_341.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS32-187_M.tif:6e2059e8d9a2419a94de051c08602083","goldenMaterial":"VAC_341_PremiumCard.mat:a74d25467e84c144a8f4a6c55707aa32","goldenAnimation":"VAC_341_PremiumCard.asset:9303301ef407a0845895d05248e8b2a0"}}
+{
+  "2024-07-24": {
+    "id": "VAC_341",
+    "dbfId": 107771,
+    "name": "덜 요리된 오징어",
+    "type": "MINION",
+    "cardClass": "WARRIOR",
+    "rarity": "RARE",
+    "collectible": true,
+    "cost": 4,
+    "text": "<b>전투의 함성:</b> 공격력이<br></br>이 하수인의 공격력 이하인<br></br>적 하수인을 처치합니다.",
+    "attack": 3,
+    "health": 4,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "물회로 말아 드세요.",
+    "spellSchool": "",
+    "portrait": "HS32-187_M.tif:6e2059e8d9a2419a94de051c08602083",
+    "set": "ISLAND_VACATION",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 4
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 3
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 4
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 10
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 20
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      }
+    ],
+    "races": [
+      "BEAST"
+    ],
+    "race": "야수",
+    "classes": [],
+    "art": "art/VAC_341.png"
+  }
+}

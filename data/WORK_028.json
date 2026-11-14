@@ -1,1 +1,67 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"WORK_028","dbfId":112372,"name":"영원한 경유","type":"SPELL","cardClass":"DEATHKNIGHT","rarity":"RARE","collectible":true,"cost":4,"text":"모든 하수인에게 <b>환생</b>을 부여하고,\n모든 하수인을 처치합니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"모든 것을 뒤로하고 떠나세요! 영원히...","spellSchool":"","portrait":"HS32-153_S.tif:eae075e104ef4d50b028f53411dc7d49","set":"ISLAND_VACATION","nativeTags":[{"id":48,"name":"마나 비용","value":4},{"id":199,"name":"직업","value":1},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":3},{"id":321,"name":"수집 가능","value":1},{"id":1085,"name":"환생","value":1},{"id":1824,"name":"미니 세트","value":1},{"id":2198,"name":"부정 룬","value":1}],"races":[],"race":"","classes":[],"art":"art/WORK_028.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS32-153_S.tif:eae075e104ef4d50b028f53411dc7d49","goldenMaterial":"WORK_028_PremiumCard.mat:612f9c6276a42124bb56f9b166374086","goldenAnimation":"WORK_028_PremiumCard.asset:ec7d9f5007dc54f459a68b664fcf3eca"}}
+{
+  "2024-09-11": {
+    "id": "WORK_028",
+    "dbfId": 112372,
+    "name": "영원한 경유",
+    "type": "SPELL",
+    "cardClass": "DEATHKNIGHT",
+    "rarity": "RARE",
+    "collectible": true,
+    "cost": 4,
+    "text": "모든 하수인에게 <b>환생</b>을 부여하고,<br></br>모든 하수인을 처치합니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "모든 것을 뒤로하고 떠나세요! 영원히...",
+    "spellSchool": "",
+    "portrait": "HS32-153_S.tif:eae075e104ef4d50b028f53411dc7d49",
+    "set": "ISLAND_VACATION",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 4
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 1
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 1085,
+        "name": "환생",
+        "value": 1
+      },
+      {
+        "id": 1824,
+        "name": "미니 세트",
+        "value": 1
+      },
+      {
+        "id": 2198,
+        "name": "부정 룬",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/WORK_028.png"
+  }
+}

@@ -1,1 +1,67 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"WORK_030t","dbfId":110847,"name":"검은바위 홍보물","type":"SPELL","cardClass":"SHAMAN","rarity":"RARE","collectible":false,"cost":2,"text":"하수인에게 피해를 $3 주고 그 양옆의 하수인들에게는 $1 줍니다.\n<i>(매 턴마다 뒤집힙니다.)</i>","attack":0,"health":0,"durability":0,"armor":0,"flavor":"","spellSchool":"FIRE","portrait":"HS32-315_S.tif:fa19f969d45644a3954d696a2ac3ba10","set":"ISLAND_VACATION","nativeTags":[{"id":48,"name":"마나 비용","value":2},{"id":199,"name":"직업","value":8},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":3},{"id":1078,"name":"마우스를 올리면 카드 표시","value":110848},{"id":1452,"name":"수집품 관련 카드 데이터베이스 ID","value":110848},{"id":1635,"name":"주문 속성","value":2},{"id":1824,"name":"미니 세트","value":1}],"races":[],"race":"","classes":[],"art":"art/WORK_030t.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS32-315_S.tif:fa19f969d45644a3954d696a2ac3ba10","goldenMaterial":"WORK_030t_PremiumCard.mat:fbe12a2740161a44b91b8c8ce1a31187","goldenAnimation":"WORK_030t_PremiumCard.asset:6f0cbee99d7f83b45942748ef0520225"}}
+{
+  "2024-09-11": {
+    "id": "WORK_030t",
+    "dbfId": 110847,
+    "name": "검은바위 홍보물",
+    "type": "SPELL",
+    "cardClass": "SHAMAN",
+    "rarity": "RARE",
+    "collectible": false,
+    "cost": 2,
+    "text": "하수인에게 피해를 $3 주고 그 양옆의 하수인들에게는 $1 줍니다.<br></br><i>(매 턴마다 뒤집힙니다.)</i>",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "FIRE",
+    "portrait": "HS32-315_S.tif:fa19f969d45644a3954d696a2ac3ba10",
+    "set": "ISLAND_VACATION",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 2
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 8
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 1078,
+        "name": "마우스를 올리면 카드 표시",
+        "value": 110848
+      },
+      {
+        "id": 1452,
+        "name": "수집품 관련 카드 데이터베이스 ID",
+        "value": 110848
+      },
+      {
+        "id": 1635,
+        "name": "주문 속성",
+        "value": 2
+      },
+      {
+        "id": 1824,
+        "name": "미니 세트",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/WORK_030t.png"
+  }
+}

@@ -1,1 +1,58 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"VAC_413t","dbfId":113343,"name":"섬 악어","type":"MINION","cardClass":"HUNTER","collectible":false,"cost":2,"text":"","attack":2,"health":3,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS32-180_M.tif:f4a8f4ef315f490fa4633434ef9ad38d","set":"ISLAND_VACATION","nativeTags":[{"id":45,"name":"생명력","value":3},{"id":47,"name":"공격력","value":2},{"id":48,"name":"마나 비용","value":2},{"id":199,"name":"직업","value":3},{"id":200,"name":"종족","value":20},{"id":202,"name":"카드 유형","value":4}],"races":["BEAST"],"race":"야수","classes":[],"art":"art/VAC_413t.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS32-180_M.tif:f4a8f4ef315f490fa4633434ef9ad38d","goldenMaterial":"VAC_413t_PremiumCard.mat:f01aceb085c2de74998720058244f7f0","goldenAnimation":"VAC_413t_PremiumCard.asset:06d842242318ada46a2db8710ac13616"}}
+{
+  "2024-07-24": {
+    "id": "VAC_413t",
+    "dbfId": 113343,
+    "name": "섬 악어",
+    "type": "MINION",
+    "cardClass": "HUNTER",
+    "collectible": false,
+    "cost": 2,
+    "text": "",
+    "attack": 2,
+    "health": 3,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS32-180_M.tif:f4a8f4ef315f490fa4633434ef9ad38d",
+    "set": "ISLAND_VACATION",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 3
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 2
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 2
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 3
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 20
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      }
+    ],
+    "races": [
+      "BEAST"
+    ],
+    "race": "야수",
+    "classes": [],
+    "art": "art/VAC_413t.png"
+  }
+}

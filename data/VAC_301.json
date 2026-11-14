@@ -1,1 +1,79 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"VAC_301","dbfId":106303,"name":"흥행사","type":"MINION","cardClass":"SHAMAN","rarity":"EPIC","collectible":true,"cost":7,"text":"<b>전투의 함성:</b> 비용이 5인 무작위 하수인을 소환합니다.\n이번 게임에서 내가 시전한 주문의 속성 종류만큼 반복합니다.","attack":4,"health":4,"durability":0,"armor":0,"flavor":"춤추는 다릴, 조심하세요. 당신 일자리가 위험하거든요.","spellSchool":"","portrait":"HS32-162_M.tif:b02e4cc2acea40a396928c67ecff3426","set":"ISLAND_VACATION","nativeTags":[{"id":45,"name":"생명력","value":4},{"id":47,"name":"공격력","value":4},{"id":48,"name":"마나 비용","value":7},{"id":199,"name":"직업","value":8},{"id":200,"name":"종족","value":92},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":4},{"id":218,"name":"전투의 함성","value":1},{"id":321,"name":"수집 가능","value":1},{"id":1724,"name":"게임 태그 1724","value":1}],"races":["NAGA"],"race":"나가","classes":[],"art":"art/VAC_301.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS32-162_M.tif:b02e4cc2acea40a396928c67ecff3426","goldenMaterial":"VAC_301_PremiumCard.mat:951f9d79bcb4c8d48b88540ad70991e0","goldenAnimation":"VAC_301_PremiumCard.asset:3aa8f0656143873428c1a67f273bc49b"}}
+{
+  "2024-07-24": {
+    "id": "VAC_301",
+    "dbfId": 106303,
+    "name": "흥행사",
+    "type": "MINION",
+    "cardClass": "SHAMAN",
+    "rarity": "EPIC",
+    "collectible": true,
+    "cost": 7,
+    "text": "<b>전투의 함성:</b> 비용이 5인 무작위 하수인을 소환합니다.<br></br>이번 게임에서 내가 시전한 주문의 속성 종류만큼 반복합니다.",
+    "attack": 4,
+    "health": 4,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "춤추는 다릴, 조심하세요. 당신 일자리가 위험하거든요.",
+    "spellSchool": "",
+    "portrait": "HS32-162_M.tif:b02e4cc2acea40a396928c67ecff3426",
+    "set": "ISLAND_VACATION",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 4
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 4
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 7
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 8
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 92
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 4
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 1724,
+        "name": "게임 태그 1724",
+        "value": 1
+      }
+    ],
+    "races": [
+      "NAGA"
+    ],
+    "race": "나가",
+    "classes": [],
+    "art": "art/VAC_301.png"
+  }
+}

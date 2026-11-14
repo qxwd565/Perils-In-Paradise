@@ -1,1 +1,46 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"VAC_523t","dbfId":109439,"name":"조주사의 특제 물약","type":"SPELL","cardClass":"NEUTRAL","collectible":false,"cost":1,"text":"","attack":0,"health":0,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS32-096_S.tif:2b32f3e21f69421ea0f93aa004d45c64","set":"ISLAND_VACATION","nativeTags":[{"id":48,"name":"마나 비용","value":1},{"id":199,"name":"직업","value":12},{"id":202,"name":"카드 유형","value":5},{"id":208,"name":"빙결","value":1}],"races":[],"race":"","classes":[],"art":"art/VAC_523t.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS32-096_S.tif:2b32f3e21f69421ea0f93aa004d45c64","goldenMaterial":"VAC_523t_PremiumCard.mat:6c97ce96eb3016f459e109dd94083e83","goldenAnimation":"VAC_523t_PremiumCard.asset:af12e0dff241cfb4db02f078d69466ed"}}
+{
+  "2024-07-24": {
+    "id": "VAC_523t",
+    "dbfId": 109439,
+    "name": "조주사의 특제 물약",
+    "type": "SPELL",
+    "cardClass": "NEUTRAL",
+    "collectible": false,
+    "cost": 1,
+    "text": "",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS32-096_S.tif:2b32f3e21f69421ea0f93aa004d45c64",
+    "set": "ISLAND_VACATION",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 208,
+        "name": "빙결",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/VAC_523t.png"
+  }
+}

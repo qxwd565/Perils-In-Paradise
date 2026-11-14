@@ -1,1 +1,57 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"VAC_907t2","dbfId":111997,"name":"곰자리","type":"SPELL","cardClass":"DRUID","rarity":"EPIC","collectible":false,"cost":8,"text":"방어도를 +5 얻습니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"","spellSchool":"ARCANE","portrait":"HS32-191_S.tif:7e9ecd8881c84542a50e91b4f91c9a4a","set":"ISLAND_VACATION","nativeTags":[{"id":48,"name":"마나 비용","value":8},{"id":199,"name":"직업","value":2},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":4},{"id":1200,"name":"게임 태그 1200","value":1},{"id":1635,"name":"주문 속성","value":1}],"races":[],"race":"","classes":[],"art":"art/VAC_907t2.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS32-191_S.tif:7e9ecd8881c84542a50e91b4f91c9a4a","goldenMaterial":"VAC_907t2_PremiumCard.mat:a287b1b0e32f91f4ab9edf13dc37202a","goldenAnimation":"VAC_907t2_PremiumCard.asset:87d85cf459d63ec4281ef85aa73f745c"}}
+{
+  "2024-07-24": {
+    "id": "VAC_907t2",
+    "dbfId": 111997,
+    "name": "곰자리",
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "rarity": "EPIC",
+    "collectible": false,
+    "cost": 8,
+    "text": "방어도를 +5 얻습니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "ARCANE",
+    "portrait": "HS32-191_S.tif:7e9ecd8881c84542a50e91b4f91c9a4a",
+    "set": "ISLAND_VACATION",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 8
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 2
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 4
+      },
+      {
+        "id": 1200,
+        "name": "게임 태그 1200",
+        "value": 1
+      },
+      {
+        "id": 1635,
+        "name": "주문 속성",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/VAC_907t2.png"
+  }
+}

@@ -1,1 +1,56 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"VAC_959t06","dbfId":109036,"name":"동물의 부적","type":"SPELL","cardClass":"NEUTRAL","collectible":false,"cost":1,"text":"비용이 4인 무작위 하수인을 소환하고\n<b>도발</b>을 부여합니다.\n<i>(그 하수인이 공격할 수 없습니다!)</i>","attack":0,"health":0,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS32-115_S.tif:13dea8cb1b5a490097767a839f16766b","set":"ISLAND_VACATION","nativeTags":[{"id":2,"name":"효과 수치 1","value":109037},{"id":48,"name":"마나 비용","value":1},{"id":114,"name":"전설 속성","value":1},{"id":190,"name":"도발","value":1},{"id":199,"name":"직업","value":12},{"id":202,"name":"카드 유형","value":5}],"races":[],"race":"","classes":[],"art":"art/VAC_959t06.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS32-115_S.tif:13dea8cb1b5a490097767a839f16766b","goldenMaterial":"VAC_959t06_PremiumCard.mat:7936daabd3160974b917124fe24779d1","goldenAnimation":"VAC_959t06_PremiumCard.asset:d85d89cc759b00f44b354e78e210f19a"}}
+{
+  "2024-07-24": {
+    "id": "VAC_959t06",
+    "dbfId": 109036,
+    "name": "동물의 부적",
+    "type": "SPELL",
+    "cardClass": "NEUTRAL",
+    "collectible": false,
+    "cost": 1,
+    "text": "비용이 4인 무작위 하수인을 소환하고<br></br><b>도발</b>을 부여합니다.<br></br><i>(그 하수인이 공격할 수 없습니다!)</i>",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS32-115_S.tif:13dea8cb1b5a490097767a839f16766b",
+    "set": "ISLAND_VACATION",
+    "nativeTags": [
+      {
+        "id": 2,
+        "name": "효과 수치 1",
+        "value": 109037
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 1
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 1
+      },
+      {
+        "id": 190,
+        "name": "도발",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/VAC_959t06.png"
+  }
+}

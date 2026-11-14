@@ -1,1 +1,79 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"VAC_946","dbfId":107822,"name":"끔찍한 주방장","type":"MINION","cardClass":"NEUTRAL","rarity":"COMMON","collectible":true,"cost":3,"text":"<b>전투의 함성:</b> 0/2 네루비안 알을 소환합니다.\n<b>죽음의 메아리:</b> 그 네루비안 알을 처치합니다.","attack":2,"health":1,"durability":0,"armor":0,"flavor":"요리는 누구나 할 수 있죠! 얘만 빼고요.","spellSchool":"","portrait":"HS32-088_M.tif:ff059b52bbdd454bb5a338fe04b09052","set":"ISLAND_VACATION","nativeTags":[{"id":45,"name":"생명력","value":1},{"id":47,"name":"공격력","value":2},{"id":48,"name":"마나 비용","value":3},{"id":199,"name":"직업","value":12},{"id":200,"name":"종족","value":11},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":1},{"id":217,"name":"죽음의 메아리","value":1},{"id":218,"name":"전투의 함성","value":1},{"id":321,"name":"수집 가능","value":1}],"races":["UNDEAD"],"race":"언데드","classes":[],"art":"art/VAC_946.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS32-088_M.tif:ff059b52bbdd454bb5a338fe04b09052","goldenMaterial":"VAC_946_PremiumCard.mat:b85210f73c81b40428950ecb7a1479f6","goldenAnimation":"VAC_946_PremiumCard.asset:e6c5f5ac6f62f8e418a0211a69c79a4e"}}
+{
+  "2024-07-24": {
+    "id": "VAC_946",
+    "dbfId": 107822,
+    "name": "끔찍한 주방장",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 3,
+    "text": "<b>전투의 함성:</b> 0/2 네루비안 알을 소환합니다.<br></br><b>죽음의 메아리:</b> 그 네루비안 알을 처치합니다.",
+    "attack": 2,
+    "health": 1,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "요리는 누구나 할 수 있죠! 얘만 빼고요.",
+    "spellSchool": "",
+    "portrait": "HS32-088_M.tif:ff059b52bbdd454bb5a338fe04b09052",
+    "set": "ISLAND_VACATION",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 1
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 2
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 3
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 11
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 217,
+        "name": "죽음의 메아리",
+        "value": 1
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      }
+    ],
+    "races": [
+      "UNDEAD"
+    ],
+    "race": "언데드",
+    "classes": [],
+    "art": "art/VAC_946.png"
+  }
+}

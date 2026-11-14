@@ -1,1 +1,84 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"WORK_010","dbfId":110762,"name":"여행 보안 요원","type":"MINION","cardClass":"DEATHKNIGHT","rarity":"COMMON","collectible":true,"cost":6,"text":"<b>도발</b>, <b>죽음의 메아리:</b>\n비용이 8인 무작위\n하수인을 소환합니다.","attack":2,"health":2,"durability":0,"armor":0,"flavor":"비용 8짜리 하수인을 아무나 그냥 통과시키겠다고요!?\" \"...네, 그런데요...","spellSchool":"","portrait":"HS32-312_M.tif:87511ffbfad84a38a1af83d60e593271","set":"ISLAND_VACATION","nativeTags":[{"id":45,"name":"생명력","value":2},{"id":47,"name":"공격력","value":2},{"id":48,"name":"마나 비용","value":6},{"id":190,"name":"도발","value":1},{"id":199,"name":"직업","value":1},{"id":200,"name":"종족","value":11},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":1},{"id":217,"name":"죽음의 메아리","value":1},{"id":321,"name":"수집 가능","value":1},{"id":1824,"name":"미니 세트","value":1}],"races":["UNDEAD"],"race":"언데드","classes":[],"art":"art/WORK_010.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS32-312_M.tif:87511ffbfad84a38a1af83d60e593271","goldenMaterial":"WORK_010_PremiumCard.mat:1184b1480269516499430e0f2f99b98f","goldenAnimation":"WORK_010_PremiumCard.asset:b92007e1cc062d84fadfec551f659a72"}}
+{
+  "2024-09-11": {
+    "id": "WORK_010",
+    "dbfId": 110762,
+    "name": "여행 보안 요원",
+    "type": "MINION",
+    "cardClass": "DEATHKNIGHT",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 6,
+    "text": "<b>도발</b>, <b>죽음의 메아리:</b><br></br>비용이 8인 무작위<br></br>하수인을 소환합니다.",
+    "attack": 2,
+    "health": 2,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "비용 8짜리 하수인을 아무나 그냥 통과시키겠다고요!?\" \"...네, 그런데요...",
+    "spellSchool": "",
+    "portrait": "HS32-312_M.tif:87511ffbfad84a38a1af83d60e593271",
+    "set": "ISLAND_VACATION",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 2
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 2
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 6
+      },
+      {
+        "id": 190,
+        "name": "도발",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 1
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 11
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 217,
+        "name": "죽음의 메아리",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 1824,
+        "name": "미니 세트",
+        "value": 1
+      }
+    ],
+    "races": [
+      "UNDEAD"
+    ],
+    "race": "언데드",
+    "classes": [],
+    "art": "art/WORK_010.png"
+  }
+}

@@ -1,1 +1,52 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"VAC_700","dbfId":106681,"name":"날치기","type":"SPELL","cardClass":"ROGUE","rarity":"EPIC","collectible":true,"cost":8,"text":"무작위 적 하수인 둘을 처치합니다. 내가 낸 다른 직업의 카드 하나당 비용이 (1)씩 감소합니다. ","attack":0,"health":0,"durability":0,"armor":0,"flavor":"스내치는 간식을 집고 그랩은 음식을 채 갔습니다. 완벽한 조합이네요.","spellSchool":"","portrait":"HS32-138_S.tif:86274fa0040a4f819dd064c387ac3dff","set":"ISLAND_VACATION","nativeTags":[{"id":48,"name":"마나 비용","value":8},{"id":199,"name":"직업","value":7},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":4},{"id":321,"name":"수집 가능","value":1}],"races":[],"race":"","classes":[],"art":"art/VAC_700.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS32-138_S.tif:86274fa0040a4f819dd064c387ac3dff","goldenMaterial":"VAC_700_PremiumCard.mat:02521bd3a7823584c9e788db2e6bd054","goldenAnimation":"VAC_700_PremiumCard.asset:12af9976dbda38943b140a5b0b19a4d4"}}
+{
+  "2024-07-24": {
+    "id": "VAC_700",
+    "dbfId": 106681,
+    "name": "날치기",
+    "type": "SPELL",
+    "cardClass": "ROGUE",
+    "rarity": "EPIC",
+    "collectible": true,
+    "cost": 8,
+    "text": "무작위 적 하수인 둘을 처치합니다. 내가 낸 다른 직업의 카드 하나당 비용이 (1)씩 감소합니다. ",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "스내치는 간식을 집고 그랩은 음식을 채 갔습니다. 완벽한 조합이네요.",
+    "spellSchool": "",
+    "portrait": "HS32-138_S.tif:86274fa0040a4f819dd064c387ac3dff",
+    "set": "ISLAND_VACATION",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 8
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 7
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 4
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/VAC_700.png"
+  }
+}

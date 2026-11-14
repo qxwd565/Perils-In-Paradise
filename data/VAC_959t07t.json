@@ -1,1 +1,51 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"VAC_959t07t","dbfId":109039,"name":"수호의 부적","type":"SPELL","cardClass":"NEUTRAL","collectible":false,"cost":1,"text":"피해를 $6 줍니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS32-118_S.tif:ec0dd822bf734500bb16424cd4232fe0","set":"ISLAND_VACATION","nativeTags":[{"id":2,"name":"효과 수치 1","value":109038},{"id":48,"name":"마나 비용","value":1},{"id":114,"name":"전설 속성","value":1},{"id":199,"name":"직업","value":12},{"id":202,"name":"카드 유형","value":5}],"races":[],"race":"","classes":[],"art":"art/VAC_959t07t.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS32-118_S.tif:ec0dd822bf734500bb16424cd4232fe0","goldenMaterial":"VAC_959t07t_PremiumCard.mat:f04fe6d1ec36d834b896afa7ce62d51e","goldenAnimation":"VAC_959t07t_PremiumCard.asset:fb8079ae45a351a4aba9990c1e9f38f8"}}
+{
+  "2024-07-24": {
+    "id": "VAC_959t07t",
+    "dbfId": 109039,
+    "name": "수호의 부적",
+    "type": "SPELL",
+    "cardClass": "NEUTRAL",
+    "collectible": false,
+    "cost": 1,
+    "text": "피해를 $6 줍니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS32-118_S.tif:ec0dd822bf734500bb16424cd4232fe0",
+    "set": "ISLAND_VACATION",
+    "nativeTags": [
+      {
+        "id": 2,
+        "name": "효과 수치 1",
+        "value": 109038
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 1
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/VAC_959t07t.png"
+  }
+}

@@ -1,1 +1,57 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"VAC_916t3","dbfId":107069,"name":"천상의 양조주","type":"SPELL","cardClass":"PALADIN","rarity":"RARE","collectible":false,"cost":1,"text":"캐릭터에게\n<b>천상의 보호막</b>을\n부여합니다.<i>(마지막 잔!)</i>","attack":0,"health":0,"durability":0,"armor":0,"flavor":"","spellSchool":"HOLY","portrait":"HS32-135_S.tif:913d55997fb64b3194c53cf5243ca58b","set":"ISLAND_VACATION","nativeTags":[{"id":48,"name":"마나 비용","value":1},{"id":194,"name":"천상의 보호막","value":1},{"id":199,"name":"직업","value":5},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":3},{"id":1635,"name":"주문 속성","value":5}],"races":[],"race":"","classes":[],"art":"art/VAC_916t3.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS32-135_S.tif:913d55997fb64b3194c53cf5243ca58b","goldenMaterial":"VAC_916t3_PremiumCard.mat:89df96535258c824bb3a0ae22424a9b9","goldenAnimation":"VAC_916t3_PremiumCard.asset:2916dea4c0ec3c84581817186203d0b1"}}
+{
+  "2024-07-24": {
+    "id": "VAC_916t3",
+    "dbfId": 107069,
+    "name": "천상의 양조주",
+    "type": "SPELL",
+    "cardClass": "PALADIN",
+    "rarity": "RARE",
+    "collectible": false,
+    "cost": 1,
+    "text": "캐릭터에게<br></br><b>천상의 보호막</b>을<br></br>부여합니다.<i>(마지막 잔!)</i>",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "HOLY",
+    "portrait": "HS32-135_S.tif:913d55997fb64b3194c53cf5243ca58b",
+    "set": "ISLAND_VACATION",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 1
+      },
+      {
+        "id": 194,
+        "name": "천상의 보호막",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 5
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 1635,
+        "name": "주문 속성",
+        "value": 5
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/VAC_916t3.png"
+  }
+}

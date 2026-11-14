@@ -1,1 +1,72 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"WORK_017t","dbfId":112379,"name":"길니아스 홍보물","type":"SPELL","cardClass":"PRIEST","rarity":"RARE","collectible":false,"cost":2,"text":"하수인을 <b>침묵</b>시키고 -2/-2를 부여합니다.\n<i>(매 턴마다 뒤집힙니다.)</i>","attack":0,"health":0,"durability":0,"armor":0,"flavor":"","spellSchool":"SHADOW","portrait":"HS32-321_S.tif:d5660ddef4d3469bbbb029f2f6606306","set":"ISLAND_VACATION","nativeTags":[{"id":48,"name":"마나 비용","value":2},{"id":199,"name":"직업","value":6},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":3},{"id":339,"name":"침묵","value":1},{"id":1078,"name":"마우스를 올리면 카드 표시","value":110771},{"id":1452,"name":"수집품 관련 카드 데이터베이스 ID","value":110771},{"id":1635,"name":"주문 속성","value":6},{"id":1824,"name":"미니 세트","value":1}],"races":[],"race":"","classes":[],"art":"art/WORK_017t.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS32-321_S.tif:d5660ddef4d3469bbbb029f2f6606306","goldenMaterial":"WORK_017t_PremiumCard.mat:b7a4f82339b5d61448780d3746f7b2ef","goldenAnimation":"WORK_017t_PremiumCard.asset:eaacf727cc735d94e9bb98011abe2042"}}
+{
+  "2024-09-11": {
+    "id": "WORK_017t",
+    "dbfId": 112379,
+    "name": "길니아스 홍보물",
+    "type": "SPELL",
+    "cardClass": "PRIEST",
+    "rarity": "RARE",
+    "collectible": false,
+    "cost": 2,
+    "text": "하수인을 <b>침묵</b>시키고 -2/-2를 부여합니다.<br></br><i>(매 턴마다 뒤집힙니다.)</i>",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "SHADOW",
+    "portrait": "HS32-321_S.tif:d5660ddef4d3469bbbb029f2f6606306",
+    "set": "ISLAND_VACATION",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 2
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 6
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 339,
+        "name": "침묵",
+        "value": 1
+      },
+      {
+        "id": 1078,
+        "name": "마우스를 올리면 카드 표시",
+        "value": 110771
+      },
+      {
+        "id": 1452,
+        "name": "수집품 관련 카드 데이터베이스 ID",
+        "value": 110771
+      },
+      {
+        "id": 1635,
+        "name": "주문 속성",
+        "value": 6
+      },
+      {
+        "id": 1824,
+        "name": "미니 세트",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/WORK_017t.png"
+  }
+}

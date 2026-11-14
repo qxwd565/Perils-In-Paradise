@@ -1,1 +1,102 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"VAC_957","dbfId":108887,"name":"휴양하는 볼진","type":"MINION","cardClass":"PRIEST","rarity":"LEGENDARY","collectible":true,"cost":3,"text":"<b>사냥꾼 관광객</b>, <b>전투의 함성:</b>\n하수인을 둘 선택합니다.\n그 하수인들은 서로 능력치를 바꿉니다.","attack":3,"health":3,"durability":0,"armor":0,"flavor":"냉지압사에게 한 번만 시술을 받으면 볼진처럼 시원하게 쉴 수 있습니다.","spellSchool":"","portrait":"HS32-041_M.tif:d7295107d7564c7c95d845f618cbd626","set":"ISLAND_VACATION","nativeTags":[{"id":45,"name":"생명력","value":3},{"id":47,"name":"공격력","value":3},{"id":48,"name":"마나 비용","value":3},{"id":114,"name":"전설 속성","value":1},{"id":199,"name":"직업","value":6},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":5},{"id":218,"name":"전투의 함성","value":1},{"id":321,"name":"수집 가능","value":1},{"id":1724,"name":"게임 태그 1724","value":1},{"id":2589,"name":"간판 카드 존재","value":1},{"id":2936,"name":"게임 태그 2936","value":1},{"id":3228,"name":"관광객","value":3},{"id":3603,"name":"사냥꾼 관광객","value":1},{"id":4357,"name":"게임 태그 4357","value":1}],"races":[],"race":"","classes":[],"art":"art/VAC_957.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS32-041_M.tif:d7295107d7564c7c95d845f618cbd626","goldenMaterial":"VAC_957_PremiumCard.mat:690fcc0abbbf97d478297da3541f14a0","goldenAnimation":"VAC_957_PremiumCard.asset:77ccafbdd4950134bb71a1f11d50ea58"}}
+{
+  "2024-07-24": {
+    "id": "VAC_957",
+    "dbfId": 108887,
+    "name": "휴양하는 볼진",
+    "type": "MINION",
+    "cardClass": "PRIEST",
+    "rarity": "LEGENDARY",
+    "collectible": true,
+    "cost": 3,
+    "text": "<b>사냥꾼 관광객</b>, <b>전투의 함성:</b><br></br>하수인을 둘 선택합니다.<br></br>그 하수인들은 서로 능력치를 바꿉니다.",
+    "attack": 3,
+    "health": 3,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "냉지압사에게 한 번만 시술을 받으면 볼진처럼 시원하게 쉴 수 있습니다.",
+    "spellSchool": "",
+    "portrait": "HS32-041_M.tif:d7295107d7564c7c95d845f618cbd626",
+    "set": "ISLAND_VACATION",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 3
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 3
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 3
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 6
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 5
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 1724,
+        "name": "게임 태그 1724",
+        "value": 1
+      },
+      {
+        "id": 2589,
+        "name": "간판 카드 존재",
+        "value": 1
+      },
+      {
+        "id": 2936,
+        "name": "게임 태그 2936",
+        "value": 1
+      },
+      {
+        "id": 3228,
+        "name": "관광객",
+        "value": 3
+      },
+      {
+        "id": 3603,
+        "name": "사냥꾼 관광객",
+        "value": 1
+      },
+      {
+        "id": 4357,
+        "name": "게임 태그 4357",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/VAC_957.png"
+  }
+}

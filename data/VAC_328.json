@@ -1,1 +1,79 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"VAC_328","dbfId":106534,"name":"녹는 정령","type":"MINION","cardClass":"SHAMAN","rarity":"COMMON","collectible":true,"cost":3,"text":"<b>도발</b>\n이 하수인은 영구히\n<b>빙결</b> 상태입니다.","attack":3,"health":8,"durability":0,"armor":0,"flavor":"\"누가 바닥에 젖은 팔 보호구를 놔둔 걸까?\"","spellSchool":"","portrait":"HS32-154_M.tif:570deaaac65f494c9cd0a0fd5773e69b","set":"ISLAND_VACATION","nativeTags":[{"id":45,"name":"생명력","value":8},{"id":47,"name":"공격력","value":3},{"id":48,"name":"마나 비용","value":3},{"id":190,"name":"도발","value":1},{"id":199,"name":"직업","value":8},{"id":200,"name":"종족","value":18},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":1},{"id":208,"name":"빙결","value":1},{"id":321,"name":"수집 가능","value":1}],"races":["ELEMENTAL"],"race":"정령","classes":[],"art":"art/VAC_328.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS32-154_M.tif:570deaaac65f494c9cd0a0fd5773e69b","goldenMaterial":"VAC_328_PremiumCard.mat:82835c0f67be3b04d8b0d9aba5ffbd3d","goldenAnimation":"VAC_328_PremiumCard.asset:21c32814b1e626e4cbd0c56430bde91a"}}
+{
+  "2024-07-24": {
+    "id": "VAC_328",
+    "dbfId": 106534,
+    "name": "녹는 정령",
+    "type": "MINION",
+    "cardClass": "SHAMAN",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 3,
+    "text": "<b>도발</b><br></br>이 하수인은 영구히<br></br><b>빙결</b> 상태입니다.",
+    "attack": 3,
+    "health": 8,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "\"누가 바닥에 젖은 팔 보호구를 놔둔 걸까?\"",
+    "spellSchool": "",
+    "portrait": "HS32-154_M.tif:570deaaac65f494c9cd0a0fd5773e69b",
+    "set": "ISLAND_VACATION",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 8
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 3
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 3
+      },
+      {
+        "id": 190,
+        "name": "도발",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 8
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 18
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 208,
+        "name": "빙결",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      }
+    ],
+    "races": [
+      "ELEMENTAL"
+    ],
+    "race": "정령",
+    "classes": [],
+    "art": "art/VAC_328.png"
+  }
+}

@@ -1,1 +1,52 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"VAC_308","dbfId":106310,"name":"세이렌 노래","type":"SPELL","cardClass":"SHAMAN","rarity":"RARE","collectible":true,"cost":2,"text":"이번 게임에서 내가 시전하지 않은 속성의 무작위 주문을 둘 얻습니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"\"가사를 알면 같이 불러 주세요! 워우워우워!\"","spellSchool":"","portrait":"HS32-163_S.tif:42f128e98e1647ffa45012e1cb19ff07","set":"ISLAND_VACATION","nativeTags":[{"id":48,"name":"마나 비용","value":2},{"id":199,"name":"직업","value":8},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":3},{"id":321,"name":"수집 가능","value":1}],"races":[],"race":"","classes":[],"art":"art/VAC_308.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS32-163_S.tif:42f128e98e1647ffa45012e1cb19ff07","goldenMaterial":"VAC_308_PremiumCard.mat:fba5ca5540785ce4a97a519052899e61","goldenAnimation":"VAC_308_PremiumCard.asset:470ec57d9378b1a4b8108453dfd651a8"}}
+{
+  "2024-07-24": {
+    "id": "VAC_308",
+    "dbfId": 106310,
+    "name": "세이렌 노래",
+    "type": "SPELL",
+    "cardClass": "SHAMAN",
+    "rarity": "RARE",
+    "collectible": true,
+    "cost": 2,
+    "text": "이번 게임에서 내가 시전하지 않은 속성의 무작위 주문을 둘 얻습니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "\"가사를 알면 같이 불러 주세요! 워우워우워!\"",
+    "spellSchool": "",
+    "portrait": "HS32-163_S.tif:42f128e98e1647ffa45012e1cb19ff07",
+    "set": "ISLAND_VACATION",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 2
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 8
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/VAC_308.png"
+  }
+}

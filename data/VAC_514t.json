@@ -1,1 +1,69 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"VAC_514t","dbfId":111484,"name":"공포사냥개","type":"MINION","cardClass":"DEATHKNIGHT","collectible":false,"cost":1,"text":"<b>환생</b>","attack":1,"health":1,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS32-129_M.tif:9d99781b9d824ff2abe25bd8c20c3a1a","set":"ISLAND_VACATION","nativeTags":[{"id":45,"name":"생명력","value":1},{"id":47,"name":"공격력","value":1},{"id":48,"name":"마나 비용","value":1},{"id":199,"name":"직업","value":1},{"id":200,"name":"종족","value":11},{"id":202,"name":"카드 유형","value":4},{"id":1085,"name":"환생","value":1},{"id":2542,"name":"게임 태그 2542","value":1}],"races":["UNDEAD","BEAST"],"race":"언데드, 야수","classes":[],"art":"art/VAC_514t.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS32-129_M.tif:9d99781b9d824ff2abe25bd8c20c3a1a","goldenMaterial":"VAC_514t_PremiumCard.mat:068dacdba6398b44eb3d01cd0d18413a","goldenAnimation":"VAC_514t_PremiumCard.asset:6c1203e1a632bc44abfaa92c7d0c863e"}}
+{
+  "2024-07-24": {
+    "id": "VAC_514t",
+    "dbfId": 111484,
+    "name": "공포사냥개",
+    "type": "MINION",
+    "cardClass": "DEATHKNIGHT",
+    "collectible": false,
+    "cost": 1,
+    "text": "<b>환생</b>",
+    "attack": 1,
+    "health": 1,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS32-129_M.tif:9d99781b9d824ff2abe25bd8c20c3a1a",
+    "set": "ISLAND_VACATION",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 1
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 1
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 1
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 11
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 1085,
+        "name": "환생",
+        "value": 1
+      },
+      {
+        "id": 2542,
+        "name": "게임 태그 2542",
+        "value": 1
+      }
+    ],
+    "races": [
+      "UNDEAD",
+      "BEAST"
+    ],
+    "race": "언데드, 야수",
+    "classes": [],
+    "art": "art/VAC_514t.png"
+  }
+}

@@ -1,1 +1,52 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"VAC_528","dbfId":106382,"name":"무한리필","type":"SPELL","cardClass":"WARRIOR","rarity":"RARE","collectible":true,"cost":3,"text":"종족이 서로 다른 하수인 셋을 뽑습니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"밤에 보면 안 되는 카드입니다.","spellSchool":"","portrait":"HS32-181_S.tif:164b04a9ffe1479a855f8e6a533f4907","set":"ISLAND_VACATION","nativeTags":[{"id":48,"name":"마나 비용","value":3},{"id":199,"name":"직업","value":10},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":3},{"id":321,"name":"수집 가능","value":1}],"races":[],"race":"","classes":[],"art":"art/VAC_528.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS32-181_S.tif:164b04a9ffe1479a855f8e6a533f4907","goldenMaterial":"VAC_528_PremiumCard.mat:358f06fc44699434889925a4d2abe851","goldenAnimation":"VAC_528_PremiumCard.asset:e832a934ff2f0534390c06aff2318ec8"}}
+{
+  "2024-07-24": {
+    "id": "VAC_528",
+    "dbfId": 106382,
+    "name": "무한리필",
+    "type": "SPELL",
+    "cardClass": "WARRIOR",
+    "rarity": "RARE",
+    "collectible": true,
+    "cost": 3,
+    "text": "종족이 서로 다른 하수인 셋을 뽑습니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "밤에 보면 안 되는 카드입니다.",
+    "spellSchool": "",
+    "portrait": "HS32-181_S.tif:164b04a9ffe1479a855f8e6a533f4907",
+    "set": "ISLAND_VACATION",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 3
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 10
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/VAC_528.png"
+  }
+}

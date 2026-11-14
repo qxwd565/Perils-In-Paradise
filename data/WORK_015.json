@@ -1,1 +1,84 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"WORK_015","dbfId":110768,"name":"영혼 방판원","type":"MINION","cardClass":"DEMONHUNTER","rarity":"COMMON","collectible":true,"cost":6,"text":"<b>속공</b>, <b>죽음의 메아리:</b>\n내 손에 있는 무작위 하수인의 비용을 (6) 감소시킵니다.","attack":6,"health":6,"durability":0,"armor":0,"flavor":"하... 자전거 탄 유령을 표현한 작품을 부탁했는데...","spellSchool":"","portrait":"HS32-318_M.tif:96740bcdc75d41f5a91cc4dd06d89616","set":"ISLAND_VACATION","nativeTags":[{"id":45,"name":"생명력","value":6},{"id":47,"name":"공격력","value":6},{"id":48,"name":"마나 비용","value":6},{"id":199,"name":"직업","value":14},{"id":200,"name":"종족","value":15},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":1},{"id":217,"name":"죽음의 메아리","value":1},{"id":321,"name":"수집 가능","value":1},{"id":791,"name":"속공","value":1},{"id":1824,"name":"미니 세트","value":1}],"races":["DEMON"],"race":"악마","classes":[],"art":"art/WORK_015.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS32-318_M.tif:96740bcdc75d41f5a91cc4dd06d89616","goldenMaterial":"WORK_015_PremiumCard.mat:181333b4ca10485458dd9a0d54ff624c","goldenAnimation":"WORK_015_PremiumCard.asset:2a450ca696e3c874aac4d470dea45226"}}
+{
+  "2024-09-11": {
+    "id": "WORK_015",
+    "dbfId": 110768,
+    "name": "영혼 방판원",
+    "type": "MINION",
+    "cardClass": "DEMONHUNTER",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 6,
+    "text": "<b>속공</b>, <b>죽음의 메아리:</b><br></br>내 손에 있는 무작위 하수인의 비용을 (6) 감소시킵니다.",
+    "attack": 6,
+    "health": 6,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "하... 자전거 탄 유령을 표현한 작품을 부탁했는데...",
+    "spellSchool": "",
+    "portrait": "HS32-318_M.tif:96740bcdc75d41f5a91cc4dd06d89616",
+    "set": "ISLAND_VACATION",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 6
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 6
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 6
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 14
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 15
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 217,
+        "name": "죽음의 메아리",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 791,
+        "name": "속공",
+        "value": 1
+      },
+      {
+        "id": 1824,
+        "name": "미니 세트",
+        "value": 1
+      }
+    ],
+    "races": [
+      "DEMON"
+    ],
+    "race": "악마",
+    "classes": [],
+    "art": "art/WORK_015.png"
+  }
+}

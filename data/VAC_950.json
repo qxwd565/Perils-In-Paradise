@@ -1,1 +1,79 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"VAC_950","dbfId":107892,"name":"암벽 동반자","type":"MINION","cardClass":"DRUID","rarity":"COMMON","collectible":true,"cost":7,"text":"<b>속공, 도발</b>\n내 마나 수정이 10개 이상이면 비용이 (1)이 됩니다.","attack":6,"health":7,"durability":0,"armor":0,"flavor":"숲에 천연 등산스틱이 가득한데 그걸 왜 돈 주고 사죠!?","spellSchool":"","portrait":"HS32-193_M.tif:6608682e0dec49988a8fee1ea97db866","set":"ISLAND_VACATION","nativeTags":[{"id":45,"name":"생명력","value":7},{"id":47,"name":"공격력","value":6},{"id":48,"name":"마나 비용","value":7},{"id":190,"name":"도발","value":1},{"id":199,"name":"직업","value":2},{"id":200,"name":"종족","value":18},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":1},{"id":321,"name":"수집 가능","value":1},{"id":791,"name":"속공","value":1}],"races":["ELEMENTAL"],"race":"정령","classes":[],"art":"art/VAC_950.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS32-193_M.tif:6608682e0dec49988a8fee1ea97db866","goldenMaterial":"VAC_950_PremiumCard.mat:099fa24bdb3c6074ab582d67ad6c69f6","goldenAnimation":"VAC_950_PremiumCard.asset:09356a1d45c969a4789acbef8f9c9c72"}}
+{
+  "2024-07-24": {
+    "id": "VAC_950",
+    "dbfId": 107892,
+    "name": "암벽 동반자",
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 7,
+    "text": "<b>속공, 도발</b><br></br>내 마나 수정이 10개 이상이면 비용이 (1)이 됩니다.",
+    "attack": 6,
+    "health": 7,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "숲에 천연 등산스틱이 가득한데 그걸 왜 돈 주고 사죠!?",
+    "spellSchool": "",
+    "portrait": "HS32-193_M.tif:6608682e0dec49988a8fee1ea97db866",
+    "set": "ISLAND_VACATION",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 7
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 6
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 7
+      },
+      {
+        "id": 190,
+        "name": "도발",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 2
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 18
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 791,
+        "name": "속공",
+        "value": 1
+      }
+    ],
+    "races": [
+      "ELEMENTAL"
+    ],
+    "race": "정령",
+    "classes": [],
+    "art": "art/VAC_950.png"
+  }
+}

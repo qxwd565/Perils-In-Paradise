@@ -1,1 +1,74 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"VAC_938","dbfId":107181,"name":"호젠 법석꾼","type":"MINION","cardClass":"NEUTRAL","rarity":"COMMON","collectible":true,"cost":3,"text":"다른 아군 해적이 공격할\n때마다 그 해적에게\n+1/+1을 부여합니다.","attack":2,"health":4,"durability":0,"armor":0,"flavor":"원숭이는 장난 아니야! ... 아직은...","spellSchool":"","portrait":"HS32-092_M.tif:8e327f6f2a824d5b95a3a161d60f1843","set":"ISLAND_VACATION","nativeTags":[{"id":32,"name":"발동 효과 표시","value":1},{"id":45,"name":"생명력","value":4},{"id":47,"name":"공격력","value":2},{"id":48,"name":"마나 비용","value":3},{"id":199,"name":"직업","value":12},{"id":200,"name":"종족","value":23},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":1},{"id":321,"name":"수집 가능","value":1}],"races":["PIRATE"],"race":"해적","classes":[],"art":"art/VAC_938.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS32-092_M.tif:8e327f6f2a824d5b95a3a161d60f1843","goldenMaterial":"VAC_938_PremiumCard.mat:dd13b4c1cf6208243a5131319b251268","goldenAnimation":"VAC_938_PremiumCard.asset:50e329e7dc5aa354ab559dc78bb69198"}}
+{
+  "2024-07-24": {
+    "id": "VAC_938",
+    "dbfId": 107181,
+    "name": "호젠 법석꾼",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 3,
+    "text": "다른 아군 해적이 공격할<br></br>때마다 그 해적에게<br></br>+1/+1을 부여합니다.",
+    "attack": 2,
+    "health": 4,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "원숭이는 장난 아니야! ... 아직은...",
+    "spellSchool": "",
+    "portrait": "HS32-092_M.tif:8e327f6f2a824d5b95a3a161d60f1843",
+    "set": "ISLAND_VACATION",
+    "nativeTags": [
+      {
+        "id": 32,
+        "name": "발동 효과 표시",
+        "value": 1
+      },
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 4
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 2
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 3
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 23
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      }
+    ],
+    "races": [
+      "PIRATE"
+    ],
+    "race": "해적",
+    "classes": [],
+    "art": "art/VAC_938.png"
+  }
+}

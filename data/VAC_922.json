@@ -1,1 +1,82 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"VAC_922","dbfId":106446,"name":"구명의 오라","type":"SPELL","cardClass":"PALADIN","rarity":"RARE","collectible":true,"cost":1,"text":"내 턴이 끝날 때, +1/+2를 부여하는 비용이 1인 자외선 차단제를 얻습니다. 3턴 동안 지속됩니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"모든 고리를 지배하고 햇볕으로 구하는 단 하나의 고리.","spellSchool":"HOLY","portrait":"HS32-137_S.tif:d5f1f6dab07d4aafb92f3cbfcecbf765","set":"ISLAND_VACATION","nativeTags":[{"id":2,"name":"효과 수치 1","value":3},{"id":48,"name":"마나 비용","value":1},{"id":199,"name":"직업","value":5},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":3},{"id":321,"name":"수집 가능","value":1},{"id":535,"name":"퀘스트 완료 조건","value":3},{"id":1635,"name":"주문 속성","value":5},{"id":1724,"name":"게임 태그 1724","value":1},{"id":2311,"name":"목표","value":1},{"id":3429,"name":"성기사 오라","value":1}],"races":[],"race":"","classes":[],"art":"art/VAC_922.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS32-137_S.tif:d5f1f6dab07d4aafb92f3cbfcecbf765","goldenMaterial":"VAC_922_PremiumCard.mat:e9ef1d44f8b91a54193fe181df60c90e","goldenAnimation":"VAC_922_PremiumCard.asset:56a404356f6b32940a53527c0f871f1d"}}
+{
+  "2024-07-24": {
+    "id": "VAC_922",
+    "dbfId": 106446,
+    "name": "구명의 오라",
+    "type": "SPELL",
+    "cardClass": "PALADIN",
+    "rarity": "RARE",
+    "collectible": true,
+    "cost": 1,
+    "text": "내 턴이 끝날 때, +1/+2를 부여하는 비용이 1인 자외선 차단제를 얻습니다. 3턴 동안 지속됩니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "모든 고리를 지배하고 햇볕으로 구하는 단 하나의 고리.",
+    "spellSchool": "HOLY",
+    "portrait": "HS32-137_S.tif:d5f1f6dab07d4aafb92f3cbfcecbf765",
+    "set": "ISLAND_VACATION",
+    "nativeTags": [
+      {
+        "id": 2,
+        "name": "효과 수치 1",
+        "value": 3
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 5
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 535,
+        "name": "퀘스트 완료 조건",
+        "value": 3
+      },
+      {
+        "id": 1635,
+        "name": "주문 속성",
+        "value": 5
+      },
+      {
+        "id": 1724,
+        "name": "게임 태그 1724",
+        "value": 1
+      },
+      {
+        "id": 2311,
+        "name": "목표",
+        "value": 1
+      },
+      {
+        "id": 3429,
+        "name": "성기사 오라",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/VAC_922.png"
+  }
+}

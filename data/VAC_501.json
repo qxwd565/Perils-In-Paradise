@@ -1,1 +1,102 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"VAC_501","dbfId":105540,"name":"아라나 스릴시커","type":"MINION","cardClass":"DEMONHUNTER","rarity":"LEGENDARY","collectible":true,"cost":5,"text":"<b>사제 관광객</b>\n내 턴에 내 영웅이 받는 피해를 무작위 적이 대신 받습니다.","attack":5,"health":6,"durability":0,"armor":0,"flavor":"\"아라나, 왠지 네가 여기 온 게 오로지 이 집라인을 타기 위해서인 것 같군.\"","spellSchool":"","portrait":"HS32-035_M.tif:8fe1b3ff01094156a8d8353303daae49","set":"ISLAND_VACATION","nativeTags":[{"id":32,"name":"발동 효과 표시","value":1},{"id":45,"name":"생명력","value":6},{"id":47,"name":"공격력","value":5},{"id":48,"name":"마나 비용","value":5},{"id":114,"name":"전설 속성","value":1},{"id":199,"name":"직업","value":14},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":5},{"id":321,"name":"수집 가능","value":1},{"id":1724,"name":"게임 태그 1724","value":1},{"id":2589,"name":"간판 카드 존재","value":1},{"id":2936,"name":"게임 태그 2936","value":1},{"id":3228,"name":"관광객","value":6},{"id":3602,"name":"사제 관광객","value":1},{"id":4357,"name":"게임 태그 4357","value":1}],"races":[],"race":"","classes":[],"art":"art/VAC_501.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS32-035_M.tif:8fe1b3ff01094156a8d8353303daae49","goldenMaterial":"VAC_501_PremiumCard.mat:235e257db88c5e34dbbdfa7e65501bdc","goldenAnimation":"VAC_501_PremiumCard.asset:c404103f9f77dc941963485b7a3513cf"}}
+{
+  "2024-07-24": {
+    "id": "VAC_501",
+    "dbfId": 105540,
+    "name": "아라나 스릴시커",
+    "type": "MINION",
+    "cardClass": "DEMONHUNTER",
+    "rarity": "LEGENDARY",
+    "collectible": true,
+    "cost": 5,
+    "text": "<b>사제 관광객</b><br></br>내 턴에 내 영웅이 받는 피해를 무작위 적이 대신 받습니다.",
+    "attack": 5,
+    "health": 6,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "\"아라나, 왠지 네가 여기 온 게 오로지 이 집라인을 타기 위해서인 것 같군.\"",
+    "spellSchool": "",
+    "portrait": "HS32-035_M.tif:8fe1b3ff01094156a8d8353303daae49",
+    "set": "ISLAND_VACATION",
+    "nativeTags": [
+      {
+        "id": 32,
+        "name": "발동 효과 표시",
+        "value": 1
+      },
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 6
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 5
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 5
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 14
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 5
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 1724,
+        "name": "게임 태그 1724",
+        "value": 1
+      },
+      {
+        "id": 2589,
+        "name": "간판 카드 존재",
+        "value": 1
+      },
+      {
+        "id": 2936,
+        "name": "게임 태그 2936",
+        "value": 1
+      },
+      {
+        "id": 3228,
+        "name": "관광객",
+        "value": 6
+      },
+      {
+        "id": 3602,
+        "name": "사제 관광객",
+        "value": 1
+      },
+      {
+        "id": 4357,
+        "name": "게임 태그 4357",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/VAC_501.png"
+  }
+}

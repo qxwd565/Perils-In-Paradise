@@ -1,1 +1,74 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"VAC_532","dbfId":106388,"name":"코코넛 포병","type":"MINION","cardClass":"NEUTRAL","rarity":"COMMON","collectible":true,"cost":2,"text":"양옆의 하수인이 공격한 후에, 무작위 적에게 피해를 1 줍니다.","attack":1,"health":4,"durability":0,"armor":0,"flavor":"코코넛이 그냥 나무에서 떨어졌을 것 같나요?","spellSchool":"","portrait":"HS32-083_M.tif:6bbae94c128a4d1a9d054c90e32fe53a","set":"ISLAND_VACATION","nativeTags":[{"id":32,"name":"발동 효과 표시","value":1},{"id":45,"name":"생명력","value":4},{"id":47,"name":"공격력","value":1},{"id":48,"name":"마나 비용","value":2},{"id":199,"name":"직업","value":12},{"id":200,"name":"종족","value":23},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":1},{"id":321,"name":"수집 가능","value":1}],"races":["PIRATE"],"race":"해적","classes":[],"art":"art/VAC_532.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS32-083_M.tif:6bbae94c128a4d1a9d054c90e32fe53a","goldenMaterial":"VAC_532_PremiumCard.mat:4823599b1bca92549a78bab226b9cfa1","goldenAnimation":"VAC_532_PremiumCard.asset:8251217460e3f044597c920670eea899"}}
+{
+  "2024-07-24": {
+    "id": "VAC_532",
+    "dbfId": 106388,
+    "name": "코코넛 포병",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 2,
+    "text": "양옆의 하수인이 공격한 후에, 무작위 적에게 피해를 1 줍니다.",
+    "attack": 1,
+    "health": 4,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "코코넛이 그냥 나무에서 떨어졌을 것 같나요?",
+    "spellSchool": "",
+    "portrait": "HS32-083_M.tif:6bbae94c128a4d1a9d054c90e32fe53a",
+    "set": "ISLAND_VACATION",
+    "nativeTags": [
+      {
+        "id": 32,
+        "name": "발동 효과 표시",
+        "value": 1
+      },
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 4
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 1
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 2
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 23
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      }
+    ],
+    "races": [
+      "PIRATE"
+    ],
+    "race": "해적",
+    "classes": [],
+    "art": "art/VAC_532.png"
+  }
+}

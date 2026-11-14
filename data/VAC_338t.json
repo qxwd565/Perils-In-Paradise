@@ -1,1 +1,47 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"VAC_338t","dbfId":110330,"name":"알통 컵","type":"SPELL","cardClass":"WARRIOR","rarity":"COMMON","collectible":false,"cost":1,"text":"내 손에 있는 하수인에게 +2/+1을 부여합니다.\n<i>(음료 2잔 남음!)</i>","attack":0,"health":0,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS32-185_S.tif:0579e057aa6b46d0802d46b93608ef1b","set":"ISLAND_VACATION","nativeTags":[{"id":48,"name":"마나 비용","value":1},{"id":199,"name":"직업","value":10},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":1}],"races":[],"race":"","classes":[],"art":"art/VAC_338t.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS32-185_S.tif:0579e057aa6b46d0802d46b93608ef1b","goldenMaterial":"VAC_338t_PremiumCard.mat:35f6af7483f959a44b3e06e08c32fccc","goldenAnimation":"VAC_338t_PremiumCard.asset:17c570033af943741b2c4ff450cfcf9f"}}
+{
+  "2024-07-24": {
+    "id": "VAC_338t",
+    "dbfId": 110330,
+    "name": "알통 컵",
+    "type": "SPELL",
+    "cardClass": "WARRIOR",
+    "rarity": "COMMON",
+    "collectible": false,
+    "cost": 1,
+    "text": "내 손에 있는 하수인에게 +2/+1을 부여합니다.<br></br><i>(음료 2잔 남음!)</i>",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS32-185_S.tif:0579e057aa6b46d0802d46b93608ef1b",
+    "set": "ISLAND_VACATION",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 10
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/VAC_338t.png"
+  }
+}

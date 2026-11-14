@@ -1,1 +1,67 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"VAC_529","dbfId":106385,"name":"방학생","type":"MINION","cardClass":"NEUTRAL","rarity":"COMMON","collectible":true,"cost":5,"text":"<b>전투의 함성:</b> 아군 장소를 복사하여 소환합니다.","attack":5,"health":5,"durability":0,"armor":0,"flavor":"\"...이건 공룡을 탔을 때, 이건 살인 사건 해결을 도와줬을 때, 이건 고대 신들 때문에 타락했을 때...\"","spellSchool":"","portrait":"HS32-082_M.tif:4685df72e55f497f8977d6a7eccdc4d4","set":"ISLAND_VACATION","nativeTags":[{"id":45,"name":"생명력","value":5},{"id":47,"name":"공격력","value":5},{"id":48,"name":"마나 비용","value":5},{"id":199,"name":"직업","value":12},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":1},{"id":218,"name":"전투의 함성","value":1},{"id":321,"name":"수집 가능","value":1}],"races":[],"race":"","classes":[],"art":"art/VAC_529.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS32-082_M.tif:4685df72e55f497f8977d6a7eccdc4d4","goldenMaterial":"VAC_529_PremiumCard.mat:0151c510a0e291a4484a644a8813d57b","goldenAnimation":"VAC_529_PremiumCard.asset:8536b06b73d42544f93112f375d3fb2b"}}
+{
+  "2024-07-24": {
+    "id": "VAC_529",
+    "dbfId": 106385,
+    "name": "방학생",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 5,
+    "text": "<b>전투의 함성:</b> 아군 장소를 복사하여 소환합니다.",
+    "attack": 5,
+    "health": 5,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "\"...이건 공룡을 탔을 때, 이건 살인 사건 해결을 도와줬을 때, 이건 고대 신들 때문에 타락했을 때...\"",
+    "spellSchool": "",
+    "portrait": "HS32-082_M.tif:4685df72e55f497f8977d6a7eccdc4d4",
+    "set": "ISLAND_VACATION",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 5
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 5
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 5
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/VAC_529.png"
+  }
+}

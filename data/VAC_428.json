@@ -1,1 +1,62 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"VAC_428","dbfId":107776,"name":"흐름에 맡기기","type":"SPELL","cardClass":"MAGE","rarity":"EPIC","collectible":true,"cost":1,"text":"하수인을 선택합니다. 적 하수인이라면 <b>빙결</b> 상태로 만들고, 아군 하수인이라면 <b>주문 공격력 +1</b>을 부여합니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"세상의 흐름에 몸을 맡기세요.","spellSchool":"","portrait":"HS32-074_S.tif:91f266271d2f4ca198226cb41431206d","set":"ISLAND_VACATION","nativeTags":[{"id":48,"name":"마나 비용","value":1},{"id":192,"name":"주문 공격력","value":1},{"id":199,"name":"직업","value":4},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":4},{"id":208,"name":"빙결","value":1},{"id":321,"name":"수집 가능","value":1}],"races":[],"race":"","classes":[],"art":"art/VAC_428.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS32-074_S.tif:91f266271d2f4ca198226cb41431206d","goldenMaterial":"VAC_428_PremiumCard.mat:3fc2d65e70cbdb04e83fdc9fd27c5004","goldenAnimation":"VAC_428_PremiumCard.asset:7ec1b110a2823164a9212f266983b356"}}
+{
+  "2024-07-24": {
+    "id": "VAC_428",
+    "dbfId": 107776,
+    "name": "흐름에 맡기기",
+    "type": "SPELL",
+    "cardClass": "MAGE",
+    "rarity": "EPIC",
+    "collectible": true,
+    "cost": 1,
+    "text": "하수인을 선택합니다. 적 하수인이라면 <b>빙결</b> 상태로 만들고, 아군 하수인이라면 <b>주문 공격력 +1</b>을 부여합니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "세상의 흐름에 몸을 맡기세요.",
+    "spellSchool": "",
+    "portrait": "HS32-074_S.tif:91f266271d2f4ca198226cb41431206d",
+    "set": "ISLAND_VACATION",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 1
+      },
+      {
+        "id": 192,
+        "name": "주문 공격력",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 4
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 4
+      },
+      {
+        "id": 208,
+        "name": "빙결",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/VAC_428.png"
+  }
+}

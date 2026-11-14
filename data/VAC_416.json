@@ -1,1 +1,62 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"VAC_416","dbfId":106679,"name":"죽음의 회전","type":"SPELL","cardClass":"HUNTER","rarity":"EPIC","collectible":true,"cost":5,"text":"적 하수인을 처치합니다.\n모든 적에게 그 하수인의\n공격력만큼 피해를\n무작위로 나누어 입힙니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"내 신발이 악어한테 물렸어!","spellSchool":"","portrait":"HS32-178_S.tif:deec452bce464c419e32b8dc835a8a46","set":"ISLAND_VACATION","nativeTags":[{"id":48,"name":"마나 비용","value":5},{"id":199,"name":"직업","value":3},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":4},{"id":321,"name":"수집 가능","value":1},{"id":349,"name":"게임 태그 349","value":1},{"id":370,"name":"주문 공격력 적용","value":1}],"races":[],"race":"","classes":[],"art":"art/VAC_416.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS32-178_S.tif:deec452bce464c419e32b8dc835a8a46","goldenMaterial":"VAC_416_PremiumCard.mat:8854b4af31e5ccf46addf1906595b6e9","goldenAnimation":"VAC_416_PremiumCard.asset:de35dea3584b5504b8fd7ff086417ad0"}}
+{
+  "2024-07-24": {
+    "id": "VAC_416",
+    "dbfId": 106679,
+    "name": "죽음의 회전",
+    "type": "SPELL",
+    "cardClass": "HUNTER",
+    "rarity": "EPIC",
+    "collectible": true,
+    "cost": 5,
+    "text": "적 하수인을 처치합니다.<br></br>모든 적에게 그 하수인의<br></br>공격력만큼 피해를<br></br>무작위로 나누어 입힙니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "내 신발이 악어한테 물렸어!",
+    "spellSchool": "",
+    "portrait": "HS32-178_S.tif:deec452bce464c419e32b8dc835a8a46",
+    "set": "ISLAND_VACATION",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 5
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 3
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 4
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 349,
+        "name": "게임 태그 349",
+        "value": 1
+      },
+      {
+        "id": 370,
+        "name": "주문 공격력 적용",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/VAC_416.png"
+  }
+}

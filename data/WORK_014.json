@@ -1,1 +1,67 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"WORK_014","dbfId":110767,"name":"악마와의 거래","type":"SPELL","cardClass":"DEMONHUNTER","rarity":"RARE","collectible":true,"cost":2,"text":"<b>생명력 흡수</b>\n하수인에게 피해를 $4 줍니다.\n비용이 (5) 이상인 무작위 악마를\n내 덱 맨 위에 놓습니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"불타는 군단은 아르거스 공동 사용권을 판매하기 위한 노력을 기울이고 있습니다.","spellSchool":"FEL","portrait":"HS32-317_S.tif:f681259b66ee42b5bd2dd6ba1efb4542","set":"ISLAND_VACATION","nativeTags":[{"id":48,"name":"마나 비용","value":2},{"id":199,"name":"직업","value":14},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":3},{"id":321,"name":"수집 가능","value":1},{"id":685,"name":"생명력 흡수","value":1},{"id":1635,"name":"주문 속성","value":7},{"id":1824,"name":"미니 세트","value":1}],"races":[],"race":"","classes":[],"art":"art/WORK_014.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS32-317_S.tif:f681259b66ee42b5bd2dd6ba1efb4542","goldenMaterial":"WORK_014_PremiumCard.mat:9e84340748a5fd74aaf8c68e22b4c1d1","goldenAnimation":"WORK_014_PremiumCard.asset:059b9a0fd5881ea4398beea5d0e17192"}}
+{
+  "2024-09-11": {
+    "id": "WORK_014",
+    "dbfId": 110767,
+    "name": "악마와의 거래",
+    "type": "SPELL",
+    "cardClass": "DEMONHUNTER",
+    "rarity": "RARE",
+    "collectible": true,
+    "cost": 2,
+    "text": "<b>생명력 흡수</b><br></br>하수인에게 피해를 $4 줍니다.<br></br>비용이 (5) 이상인 무작위 악마를<br></br>내 덱 맨 위에 놓습니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "불타는 군단은 아르거스 공동 사용권을 판매하기 위한 노력을 기울이고 있습니다.",
+    "spellSchool": "FEL",
+    "portrait": "HS32-317_S.tif:f681259b66ee42b5bd2dd6ba1efb4542",
+    "set": "ISLAND_VACATION",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 2
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 14
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 685,
+        "name": "생명력 흡수",
+        "value": 1
+      },
+      {
+        "id": 1635,
+        "name": "주문 속성",
+        "value": 7
+      },
+      {
+        "id": 1824,
+        "name": "미니 세트",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/WORK_014.png"
+  }
+}

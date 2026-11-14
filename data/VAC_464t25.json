@@ -1,1 +1,46 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"VAC_464t25","dbfId":111963,"name":"안녕나팔","type":"SPELL","cardClass":"NEUTRAL","collectible":false,"cost":8,"text":"내 전장을 인사성이\n밝은 하수인으로\n가득 채웁니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS14-242.psd:febcd10c70fe41bbb4d01c236ce87fc3","set":"ISLAND_VACATION","nativeTags":[{"id":48,"name":"마나 비용","value":8},{"id":199,"name":"직업","value":12},{"id":202,"name":"카드 유형","value":5},{"id":3431,"name":"게임 태그 3431","value":1}],"races":[],"race":"","classes":[],"art":"art/VAC_464t25.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS14-242.psd:febcd10c70fe41bbb4d01c236ce87fc3","goldenMaterial":"ONY_005tc3_PremiumCard.mat:d1a3170f57d48814488b93d08132b0ba","goldenAnimation":"ONY_005tc3_PremiumCard.asset:379cc642109ef4e44a9ae438b8422554"}}
+{
+  "2024-07-24": {
+    "id": "VAC_464t25",
+    "dbfId": 111963,
+    "name": "안녕나팔",
+    "type": "SPELL",
+    "cardClass": "NEUTRAL",
+    "collectible": false,
+    "cost": 8,
+    "text": "내 전장을 인사성이<br></br>밝은 하수인으로<br></br>가득 채웁니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS14-242.psd:febcd10c70fe41bbb4d01c236ce87fc3",
+    "set": "ISLAND_VACATION",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 8
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 3431,
+        "name": "게임 태그 3431",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/VAC_464t25.png"
+  }
+}

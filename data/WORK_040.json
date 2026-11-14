@@ -1,1 +1,77 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"WORK_040","dbfId":110853,"name":"실수투성이 총무","type":"MINION","cardClass":"NEUTRAL","rarity":"RARE","collectible":true,"cost":3,"text":"누구든 카드를 뽑은 후에, 그 카드가 <b>일시적</b>이 됩니다.","attack":2,"health":4,"durability":0,"armor":0,"flavor":"앗, 이런! 당신 카드에 커피를 쏟아 버렸네요! 하아... 한심하네요!","spellSchool":"","portrait":"HS32-343_M.tif:36fac26aa64e44bc89008fcbbf15e91e","set":"ISLAND_VACATION","nativeTags":[{"id":32,"name":"발동 효과 표시","value":1},{"id":45,"name":"생명력","value":4},{"id":47,"name":"공격력","value":2},{"id":48,"name":"마나 비용","value":3},{"id":199,"name":"직업","value":12},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":3},{"id":321,"name":"수집 가능","value":1},{"id":1824,"name":"미니 세트","value":1},{"id":3630,"name":"게임 태그 3630","value":1}],"races":[],"race":"","classes":[],"art":"art/WORK_040.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS32-343_M.tif:36fac26aa64e44bc89008fcbbf15e91e","goldenMaterial":"WORK_040_PremiumCard.mat:f8d9057cbdb9dd64fae6faab0ddd96c0","goldenAnimation":"WORK_040_PremiumCard.asset:0683bb451725e9e4e90be21026f7516d"}}
+{
+  "2024-09-11": {
+    "id": "WORK_040",
+    "dbfId": 110853,
+    "name": "실수투성이 총무",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "rarity": "RARE",
+    "collectible": true,
+    "cost": 3,
+    "text": "누구든 카드를 뽑은 후에, 그 카드가 <b>일시적</b>이 됩니다.",
+    "attack": 2,
+    "health": 4,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "앗, 이런! 당신 카드에 커피를 쏟아 버렸네요! 하아... 한심하네요!",
+    "spellSchool": "",
+    "portrait": "HS32-343_M.tif:36fac26aa64e44bc89008fcbbf15e91e",
+    "set": "ISLAND_VACATION",
+    "nativeTags": [
+      {
+        "id": 32,
+        "name": "발동 효과 표시",
+        "value": 1
+      },
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 4
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 2
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 3
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 1824,
+        "name": "미니 세트",
+        "value": 1
+      },
+      {
+        "id": 3630,
+        "name": "게임 태그 3630",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/WORK_040.png"
+  }
+}

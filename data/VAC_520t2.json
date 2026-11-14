@@ -1,1 +1,57 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"VAC_520t2","dbfId":106371,"name":"바닷바람 성배","type":"SPELL","cardClass":"MAGE","rarity":"COMMON","collectible":false,"cost":1,"text":"모든 적 하수인에게\n$2의 피해를 무작위로 나누어 입힙니다.\n<i>(마지막 잔!)</i>","attack":0,"health":0,"durability":0,"armor":0,"flavor":"","spellSchool":"FROST","portrait":"HS32-198_S.tif:50fe42364dee4ad8a88aabaf0d182d17","set":"ISLAND_VACATION","nativeTags":[{"id":48,"name":"마나 비용","value":1},{"id":199,"name":"직업","value":4},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":1},{"id":349,"name":"게임 태그 349","value":1},{"id":1635,"name":"주문 속성","value":3}],"races":[],"race":"","classes":[],"art":"art/VAC_520t2.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS32-198_S.tif:50fe42364dee4ad8a88aabaf0d182d17","goldenMaterial":"VAC_520t2_PremiumCard.mat:d9f7abc91e449a24d935a56cc8b076ef","goldenAnimation":"VAC_520t2_PremiumCard.asset:87b81dddc45bcd542b3aa017ab8c22d3"}}
+{
+  "2024-07-24": {
+    "id": "VAC_520t2",
+    "dbfId": 106371,
+    "name": "바닷바람 성배",
+    "type": "SPELL",
+    "cardClass": "MAGE",
+    "rarity": "COMMON",
+    "collectible": false,
+    "cost": 1,
+    "text": "모든 적 하수인에게<br></br>$2의 피해를 무작위로 나누어 입힙니다.<br></br><i>(마지막 잔!)</i>",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "FROST",
+    "portrait": "HS32-198_S.tif:50fe42364dee4ad8a88aabaf0d182d17",
+    "set": "ISLAND_VACATION",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 4
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 349,
+        "name": "게임 태그 349",
+        "value": 1
+      },
+      {
+        "id": 1635,
+        "name": "주문 속성",
+        "value": 3
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/VAC_520t2.png"
+  }
+}

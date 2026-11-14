@@ -1,1 +1,58 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"VAC_940t","dbfId":107798,"name":"지옥야수","type":"MINION","cardClass":"WARLOCK","collectible":false,"cost":1,"text":"","attack":1,"health":1,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS32-019_M.tif:02ac5bb7de374115a1b380eac2769e2d","set":"ISLAND_VACATION","nativeTags":[{"id":45,"name":"생명력","value":1},{"id":47,"name":"공격력","value":1},{"id":48,"name":"마나 비용","value":1},{"id":199,"name":"직업","value":9},{"id":200,"name":"종족","value":15},{"id":202,"name":"카드 유형","value":4}],"races":["DEMON"],"race":"악마","classes":[],"art":"art/VAC_940t.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS32-019_M.tif:02ac5bb7de374115a1b380eac2769e2d","goldenMaterial":"VAC_940t_PremiumCard.mat:17110d39ccc430c4e995de2e60bdf3e3","goldenAnimation":"VAC_940t_PremiumCard.asset:6e3193021ce1b504a8d73976abdc5c1f"}}
+{
+  "2024-07-24": {
+    "id": "VAC_940t",
+    "dbfId": 107798,
+    "name": "지옥야수",
+    "type": "MINION",
+    "cardClass": "WARLOCK",
+    "collectible": false,
+    "cost": 1,
+    "text": "",
+    "attack": 1,
+    "health": 1,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS32-019_M.tif:02ac5bb7de374115a1b380eac2769e2d",
+    "set": "ISLAND_VACATION",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 1
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 1
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 9
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 15
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      }
+    ],
+    "races": [
+      "DEMON"
+    ],
+    "race": "악마",
+    "classes": [],
+    "art": "art/VAC_940t.png"
+  }
+}
