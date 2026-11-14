@@ -1,0 +1,23 @@
+{
+  "prefixes": {
+    "VAC": {
+      "date": "2024-07-24",
+      "status": "verified"
+    },
+    "WORK": {
+      "date": "2024-09-11",
+      "status": "verified"
+    }
+  },
+  "cards": {
+    "VAC_702": {
+      "date": "2024-06-18",
+      "status": "verified"
+    }
+  },
+  "sources": {
+    "VAC": "https://hearthstone.blizzard.com/ko-kr/news/24115553",
+    "WORK": "https://hearthstone.blizzard.com/ko-kr/news/24136211",
+    "VAC_702": "https://hearthstone.blizzard.com/ko-kr/news/24108513"
+  }
+}
