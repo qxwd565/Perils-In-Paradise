@@ -1,0 +1,77 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "VAC_449",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2024-07-24",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2024-07-24": {
+        "flavor": "원소를 다루는 힘을 이용해 온갖 못된 짓을 벌이는 나가가 있는가 하면, 공연을 하는 나가도 있습니다!",
+        "portrait": "HS32-027_M.tif:d731e608ba484a4a88001132de9d554f",
+        "set": "ISLAND_VACATION",
+        "nativeTags": [
+          {
+            "id": 45,
+            "name": "생명력",
+            "value": 3
+          },
+          {
+            "id": 47,
+            "name": "공격력",
+            "value": 3
+          },
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 3
+          },
+          {
+            "id": 114,
+            "name": "전설 속성",
+            "value": 1
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 8
+          },
+          {
+            "id": 200,
+            "name": "종족",
+            "value": 92
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 4
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 5
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          },
+          {
+            "id": 2459,
+            "name": "대상 조건 태그 ID",
+            "value": 2
+          },
+          {
+            "id": 2460,
+            "name": "대상 조건 수치",
+            "value": 2
+          }
+        ],
+        "art": "art/VAC_449.png"
+      }
+    }
+  }
+}

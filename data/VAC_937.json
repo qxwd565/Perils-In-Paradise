@@ -11,69 +11,10 @@
     "text": "<b>전투의 함성:</b> 아군 해적에게 <b>질풍</b>을 부여합니다.",
     "attack": 2,
     "health": 4,
-    "durability": 0,
-    "armor": 0,
-    "flavor": "방금 판다렌을 선적했습니다!",
-    "spellSchool": "",
-    "portrait": "HS32-201_M.tif:27aaf6e2c30b4264bc64cf35b6c12cae",
-    "set": "ISLAND_VACATION",
-    "nativeTags": [
-      {
-        "id": 45,
-        "name": "생명력",
-        "value": 4
-      },
-      {
-        "id": 47,
-        "name": "공격력",
-        "value": 2
-      },
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 3
-      },
-      {
-        "id": 189,
-        "name": "질풍",
-        "value": 1
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 12
-      },
-      {
-        "id": 200,
-        "name": "종족",
-        "value": 23
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 4
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 1
-      },
-      {
-        "id": 218,
-        "name": "전투의 함성",
-        "value": 1
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      }
-    ],
     "races": [
       "PIRATE"
     ],
     "race": "해적",
-    "classes": [],
-    "art": "art/VAC_937.png"
+    "classes": []
   }
 }

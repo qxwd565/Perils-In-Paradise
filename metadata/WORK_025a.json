@@ -1,0 +1,37 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "WORK_025a",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2024-09-11",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2024-09-11": {
+        "flavor": "",
+        "portrait": "HS32-336_S.tif:ca25d79d641c494c9a46d468b2c1acb7",
+        "set": "ISLAND_VACATION",
+        "nativeTags": [
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 4
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 2
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 5
+          }
+        ],
+        "art": "art/WORK_025a.png"
+      }
+    }
+  }
+}

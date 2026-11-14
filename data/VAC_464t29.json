@@ -9,53 +9,7 @@
     "cost": 1,
     "text": "",
     "attack": 2,
-    "health": 0,
     "durability": 2,
-    "armor": 0,
-    "flavor": "",
-    "spellSchool": "",
-    "portrait": "HS12-336_W.psd:c245fbb114080e646832b6ab30871d6c",
-    "set": "ISLAND_VACATION",
-    "nativeTags": [
-      {
-        "id": 45,
-        "name": "생명력",
-        "value": 2
-      },
-      {
-        "id": 47,
-        "name": "공격력",
-        "value": 2
-      },
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 1
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 12
-      },
-      {
-        "id": 201,
-        "name": "진영",
-        "value": 3
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 7
-      },
-      {
-        "id": 3431,
-        "name": "게임 태그 3431",
-        "value": 1
-      }
-    ],
-    "races": [],
-    "race": "",
-    "classes": [],
-    "art": "art/VAC_464t29.png"
+    "classes": []
   }
 }

@@ -1,0 +1,47 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "VAC_953",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2024-07-24",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2024-07-24": {
+        "flavor": "팔이 모래에 묻혀 있는데 파도타기를 어떻게 하란 거죠?",
+        "portrait": "HS32-199_S.tif:374587a1467c4c44a6f3b7b8aa58c2e6",
+        "set": "ISLAND_VACATION",
+        "nativeTags": [
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 3
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 4
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 5
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 3
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          }
+        ],
+        "art": "art/VAC_953.png"
+      }
+    }
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "WORK_004",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2024-09-11",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2024-09-11": {
+        "flavor": "노움의 모니터링 장비는 섬세하지는 못하지만, 대신 튼튼합니다.",
+        "portrait": "HS32-303_S.tif:353441dc7d0147f88a85f80121e1a4d6",
+        "set": "ISLAND_VACATION",
+        "nativeTags": [
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 4
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 7
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 5
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 3
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          },
+          {
+            "id": 1824,
+            "name": "미니 세트",
+            "value": 1
+          }
+        ],
+        "art": "art/WORK_004.png"
+      }
+    }
+  }
+}

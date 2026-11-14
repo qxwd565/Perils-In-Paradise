@@ -1,0 +1,62 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "VAC_410t",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2024-07-24",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2024-07-24": {
+        "flavor": "",
+        "portrait": "HS32-046_M.tif:86b95fcf423d450e97c68689073590be",
+        "set": "ISLAND_VACATION",
+        "nativeTags": [
+          {
+            "id": 45,
+            "name": "생명력",
+            "value": 3
+          },
+          {
+            "id": 47,
+            "name": "공격력",
+            "value": 3
+          },
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 3
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 3
+          },
+          {
+            "id": 200,
+            "name": "종족",
+            "value": 20
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 4
+          },
+          {
+            "id": 240,
+            "name": "면역",
+            "value": 1
+          },
+          {
+            "id": 373,
+            "name": "공격 중 면역",
+            "value": 1
+          }
+        ],
+        "art": "art/VAC_410t.png"
+      }
+    }
+  }
+}

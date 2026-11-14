@@ -11,69 +11,10 @@
     "text": "<b>전투의 함성:</b> 다른 <b>모든</b><br></br>하수인에게 -1/-1을 부여합니다.<br></br><b>죽음의 메아리:</b> 다른 <b>모든</b> 하수인에게 +1/+1을 부여합니다.",
     "attack": 4,
     "health": 5,
-    "durability": 0,
-    "armor": 0,
-    "flavor": "그 '사고'가 있기 전까지는 파도 풀 물보라라고 불렸습니다.",
-    "spellSchool": "",
-    "portrait": "HS32-089_M.tif:8e235bb377154bdcbf72c49ec5c0760f",
-    "set": "ISLAND_VACATION",
-    "nativeTags": [
-      {
-        "id": 45,
-        "name": "생명력",
-        "value": 5
-      },
-      {
-        "id": 47,
-        "name": "공격력",
-        "value": 4
-      },
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 4
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 12
-      },
-      {
-        "id": 200,
-        "name": "종족",
-        "value": 18
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 4
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 1
-      },
-      {
-        "id": 217,
-        "name": "죽음의 메아리",
-        "value": 1
-      },
-      {
-        "id": 218,
-        "name": "전투의 함성",
-        "value": 1
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      }
-    ],
     "races": [
       "ELEMENTAL"
     ],
     "race": "정령",
-    "classes": [],
-    "art": "art/VAC_947.png"
+    "classes": []
   }
 }

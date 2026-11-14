@@ -1,0 +1,62 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "VAC_513",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2024-07-24",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2024-07-24": {
+        "flavor": "여기서부터는 쭉 내리막입니다.",
+        "portrait": "HS32-148_S.tif:6895878a86074ed3b4272566f11893b5",
+        "set": "ISLAND_VACATION",
+        "nativeTags": [
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 2
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 1
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 5
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 4
+          },
+          {
+            "id": 208,
+            "name": "빙결",
+            "value": 1
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          },
+          {
+            "id": 1635,
+            "name": "주문 속성",
+            "value": 3
+          },
+          {
+            "id": 2197,
+            "name": "냉기 룬",
+            "value": 2
+          }
+        ],
+        "art": "art/VAC_513.png"
+      }
+    }
+  }
+}

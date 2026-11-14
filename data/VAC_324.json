@@ -9,44 +9,6 @@
     "collectible": true,
     "cost": 4,
     "text": "하수인을 비용이 (1) 높은 무작위 하수인으로 변신시킨 후에, 그 하수인을 복사하여 소환합니다.",
-    "attack": 0,
-    "health": 0,
-    "durability": 0,
-    "armor": 0,
-    "flavor": "상남자는 핫핑크!",
-    "spellSchool": "",
-    "portrait": "HS32-026_S.tif:da17c601092e499a96e5d91762e99acf",
-    "set": "ISLAND_VACATION",
-    "nativeTags": [
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 4
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 8
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 5
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 1
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      }
-    ],
-    "races": [],
-    "race": "",
-    "classes": [],
-    "art": "art/VAC_324.png"
+    "classes": []
   }
 }

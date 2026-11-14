@@ -11,80 +11,11 @@
     "text": "<b>죽음의 메아리:</b> 무작위 적 셋을 <b>빙결</b> 상태로 만듭니다. 이미 <b>빙결</b> 상태라면,<br></br>대신 피해를 5 줍니다.",
     "attack": 2,
     "health": 2,
-    "durability": 0,
-    "armor": 0,
-    "flavor": "엘리자 고어블레이드와 허드렛일 약골까지, 세 해적 자매가 바다를 공포에 몰아넣습니다.",
-    "spellSchool": "",
-    "portrait": "HS32-149_M.tif:c164776ded5f4203bae3f90c686cdd94",
-    "set": "ISLAND_VACATION",
-    "nativeTags": [
-      {
-        "id": 45,
-        "name": "생명력",
-        "value": 2
-      },
-      {
-        "id": 47,
-        "name": "공격력",
-        "value": 2
-      },
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 3
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 1
-      },
-      {
-        "id": 200,
-        "name": "종족",
-        "value": 11
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 4
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 4
-      },
-      {
-        "id": 208,
-        "name": "빙결",
-        "value": 1
-      },
-      {
-        "id": 217,
-        "name": "죽음의 메아리",
-        "value": 1
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      },
-      {
-        "id": 2197,
-        "name": "냉기 룬",
-        "value": 1
-      },
-      {
-        "id": 2522,
-        "name": "게임 태그 2522",
-        "value": 1
-      }
-    ],
     "races": [
       "UNDEAD",
       "PIRATE"
     ],
     "race": "언데드, 해적",
-    "classes": [],
-    "art": "art/VAC_402.png"
+    "classes": []
   }
 }

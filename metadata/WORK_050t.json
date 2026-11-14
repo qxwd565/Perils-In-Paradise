@@ -1,0 +1,57 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "WORK_050t",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2024-09-11",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2024-09-11": {
+        "flavor": "",
+        "portrait": "HS32-339_S.tif:b8da3c34221a436ab40a63cb56728be3",
+        "set": "ISLAND_VACATION",
+        "nativeTags": [
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 4
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 2
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 5
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 1
+          },
+          {
+            "id": 1078,
+            "name": "마우스를 올리면 카드 표시",
+            "value": 110882
+          },
+          {
+            "id": 1635,
+            "name": "주문 속성",
+            "value": 1
+          },
+          {
+            "id": 1824,
+            "name": "미니 세트",
+            "value": 1
+          }
+        ],
+        "art": "art/WORK_050t.png"
+      }
+    }
+  }
+}

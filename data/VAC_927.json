@@ -11,70 +11,11 @@
     "text": "아군 해적이 공격한 후에, 이번 턴에 내 영웅에게 공격력을 +1 부여합니다.",
     "attack": 2,
     "health": 2,
-    "durability": 0,
-    "armor": 0,
-    "flavor": "악만 남은 악마입니다.",
-    "spellSchool": "",
-    "portrait": "HS32-165_M.tif:d633e91ef7ea4962b29023eb9384c524",
-    "set": "ISLAND_VACATION",
-    "nativeTags": [
-      {
-        "id": 32,
-        "name": "발동 효과 표시",
-        "value": 1
-      },
-      {
-        "id": 45,
-        "name": "생명력",
-        "value": 2
-      },
-      {
-        "id": 47,
-        "name": "공격력",
-        "value": 2
-      },
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 2
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 14
-      },
-      {
-        "id": 200,
-        "name": "종족",
-        "value": 15
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 4
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 1
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      },
-      {
-        "id": 2522,
-        "name": "게임 태그 2522",
-        "value": 1
-      }
-    ],
     "races": [
       "DEMON",
       "PIRATE"
     ],
     "race": "악마, 해적",
-    "classes": [],
-    "art": "art/VAC_927.png"
+    "classes": []
   }
 }

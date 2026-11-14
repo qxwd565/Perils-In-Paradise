@@ -9,59 +9,7 @@
     "collectible": true,
     "cost": 2,
     "text": "<b>도발</b> 능력이 있는 3/3 곰을 둘 얻습니다.<br></br>그 곰들은<br></br>내 손에 있으면<br></br>내 턴마다+1/+1을 얻습니다.",
-    "attack": 0,
-    "health": 0,
-    "durability": 0,
-    "armor": 0,
-    "flavor": "고객님의 상품을 곰의 속도로 배송해 드릴 것을 약속드립니다.",
     "spellSchool": "NATURE",
-    "portrait": "HS32-333_S.tif:f71a533363b945689bd05cae92af2f6b",
-    "set": "ISLAND_VACATION",
-    "nativeTags": [
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 2
-      },
-      {
-        "id": 190,
-        "name": "도발",
-        "value": 1
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 2
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 5
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 3
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      },
-      {
-        "id": 1635,
-        "name": "주문 속성",
-        "value": 4
-      },
-      {
-        "id": 1824,
-        "name": "미니 세트",
-        "value": 1
-      }
-    ],
-    "races": [],
-    "race": "",
-    "classes": [],
-    "art": "art/WORK_024.png"
+    "classes": []
   }
 }

@@ -1,0 +1,72 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "WORK_007",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2024-09-11",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2024-09-11": {
+        "flavor": "일을 미루는 습관이 있는 분들, 걱정 마세요. 그래서 저희가 교환성을 추가한 거니까요.",
+        "portrait": "HS32-308_S.tif:178a4d644b5f4dc2ba9a6bef48cf466f",
+        "set": "ISLAND_VACATION",
+        "nativeTags": [
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 2
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 9
+          },
+          {
+            "id": 201,
+            "name": "진영",
+            "value": 3
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 5
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 3
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          },
+          {
+            "id": 1635,
+            "name": "주문 속성",
+            "value": 6
+          },
+          {
+            "id": 1720,
+            "name": "교환성",
+            "value": 1
+          },
+          {
+            "id": 1743,
+            "name": "덱 행동 비용",
+            "value": 1
+          },
+          {
+            "id": 1824,
+            "name": "미니 세트",
+            "value": 1
+          }
+        ],
+        "art": "art/WORK_007.png"
+      }
+    }
+  }
+}

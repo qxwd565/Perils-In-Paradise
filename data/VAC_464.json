@@ -11,84 +11,10 @@
     "text": "<b>전투의 함성:</b> 엄청난 전리품을 <b>발견</b>하기 위한 <b>부가 퀘스트</b>를 떠납니다! 다른 직업의 카드를 3장 내면 퀘스트가 완료됩니다.",
     "attack": 4,
     "health": 5,
-    "durability": 0,
-    "armor": 0,
-    "flavor": "보물 사냥이 힘들어 봤자죠. 총으로 쏴도 도망도 안 치잖아요!",
-    "spellSchool": "",
-    "portrait": "HS32-013_M.tif:889e01f554c04978b9b60fc15250d0af",
-    "set": "ISLAND_VACATION",
-    "nativeTags": [
-      {
-        "id": 45,
-        "name": "생명력",
-        "value": 5
-      },
-      {
-        "id": 47,
-        "name": "공격력",
-        "value": 4
-      },
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 4
-      },
-      {
-        "id": 114,
-        "name": "전설 속성",
-        "value": 1
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 7
-      },
-      {
-        "id": 200,
-        "name": "종족",
-        "value": 23
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 4
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 5
-      },
-      {
-        "id": 218,
-        "name": "전투의 함성",
-        "value": 1
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      },
-      {
-        "id": 415,
-        "name": "발견",
-        "value": 1
-      },
-      {
-        "id": 1192,
-        "name": "부가 퀘스트",
-        "value": 1
-      },
-      {
-        "id": 2589,
-        "name": "간판 카드 존재",
-        "value": 1
-      }
-    ],
     "races": [
       "PIRATE"
     ],
     "race": "해적",
-    "classes": [],
-    "art": "art/VAC_464.png"
+    "classes": []
   }
 }

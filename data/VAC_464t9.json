@@ -8,39 +8,6 @@
     "collectible": false,
     "cost": 3,
     "text": "카드를 2장 뽑습니다.<br></br>방어도를 +4 얻습니다.",
-    "attack": 0,
-    "health": 0,
-    "durability": 0,
-    "armor": 0,
-    "flavor": "",
-    "spellSchool": "",
-    "portrait": "HS6-092_D.psd:4ff126b23d838114da6be7d8b67a20c8",
-    "set": "ISLAND_VACATION",
-    "nativeTags": [
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 3
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 12
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 5
-      },
-      {
-        "id": 3431,
-        "name": "게임 태그 3431",
-        "value": 1
-      }
-    ],
-    "races": [],
-    "race": "",
-    "classes": [],
-    "art": "art/VAC_464t9.png"
+    "classes": []
   }
 }

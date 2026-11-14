@@ -9,49 +9,6 @@
     "collectible": true,
     "cost": 7,
     "text": "내 전장을 무작위 나가로 가득 채웁니다.",
-    "attack": 0,
-    "health": 0,
-    "durability": 0,
-    "armor": 0,
-    "flavor": "주문, 나가, 나가, 나가, 나가, 나가, 나가, 나가...",
-    "spellSchool": "",
-    "portrait": "HS32-340_S.tif:f9c391f9a8814cdfac38d6f506d87485",
-    "set": "ISLAND_VACATION",
-    "nativeTags": [
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 7
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 4
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 5
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 1
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      },
-      {
-        "id": 1824,
-        "name": "미니 세트",
-        "value": 1
-      }
-    ],
-    "races": [],
-    "race": "",
-    "classes": [],
-    "art": "art/WORK_012.png"
+    "classes": []
   }
 }

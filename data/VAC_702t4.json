@@ -10,62 +10,6 @@
     "text": "<b>도발</b>, <b>전투의 함성:</b> 내 손에 있는<br></br><b>모든</b> 카드를 <b>전설</b> 하수인으로<br></br>교체합니다. 그 카드들의 비용이<br></br>(1) 감소합니다.",
     "attack": 6,
     "health": 6,
-    "durability": 0,
-    "armor": 0,
-    "flavor": "",
-    "spellSchool": "",
-    "portrait": "HS12-256_M.psd:3347c9bb9514d4d47913ccc73d5244db",
-    "set": "ISLAND_VACATION",
-    "nativeTags": [
-      {
-        "id": 45,
-        "name": "생명력",
-        "value": 6
-      },
-      {
-        "id": 47,
-        "name": "공격력",
-        "value": 6
-      },
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 3
-      },
-      {
-        "id": 114,
-        "name": "전설 속성",
-        "value": 1
-      },
-      {
-        "id": 190,
-        "name": "도발",
-        "value": 1
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 12
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 4
-      },
-      {
-        "id": 218,
-        "name": "전투의 함성",
-        "value": 1
-      },
-      {
-        "id": 858,
-        "name": "게임 태그 858",
-        "value": 45727
-      }
-    ],
-    "races": [],
-    "race": "",
-    "classes": [],
-    "art": "art/VAC_702t4.png"
+    "classes": []
   }
 }

@@ -11,62 +11,6 @@
     "text": "<b>도발</b>, <b>죽음의 메아리:</b><br></br>다른 <b>도발</b> 하수인을 뽑습니다. 그 하수인의 비용이 (2) 감소합니다.",
     "attack": 1,
     "health": 5,
-    "durability": 0,
-    "armor": 0,
-    "flavor": "토르톨라, 이번 등반 동안 내 생명력을 지켜줘!",
-    "spellSchool": "",
-    "portrait": "HS32-188_M.tif:2d02db6d0958466ca2ca67fcea49ffb7",
-    "set": "ISLAND_VACATION",
-    "nativeTags": [
-      {
-        "id": 45,
-        "name": "생명력",
-        "value": 5
-      },
-      {
-        "id": 47,
-        "name": "공격력",
-        "value": 1
-      },
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 3
-      },
-      {
-        "id": 190,
-        "name": "도발",
-        "value": 1
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 2
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 4
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 1
-      },
-      {
-        "id": 217,
-        "name": "죽음의 메아리",
-        "value": 1
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      }
-    ],
-    "races": [],
-    "race": "",
-    "classes": [],
-    "art": "art/VAC_518.png"
+    "classes": []
   }
 }

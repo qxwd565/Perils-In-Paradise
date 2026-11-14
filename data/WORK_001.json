@@ -9,59 +9,6 @@
     "collectible": true,
     "cost": 4,
     "text": "비용이 (5) 이하인 하수인을 둘 <b>발견</b>합니다.<br></br>그 하수인들이 서로의 공격력과 생명력을 얻습니다.",
-    "attack": 0,
-    "health": 0,
-    "durability": 0,
-    "armor": 0,
-    "flavor": "대지모신께서 저를 잡아주시길.",
-    "spellSchool": "",
-    "portrait": "HS32-300_S.tif:8f11718796244fcabd7e7cda392bf13e",
-    "set": "ISLAND_VACATION",
-    "nativeTags": [
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 4
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 5
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 5
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 3
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      },
-      {
-        "id": 415,
-        "name": "발견",
-        "value": 1
-      },
-      {
-        "id": 1342,
-        "name": "발견 시각 효과",
-        "value": 1
-      },
-      {
-        "id": 1824,
-        "name": "미니 세트",
-        "value": 1
-      }
-    ],
-    "races": [],
-    "race": "",
-    "classes": [],
-    "art": "art/WORK_001.png"
+    "classes": []
   }
 }

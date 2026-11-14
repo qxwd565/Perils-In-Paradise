@@ -9,49 +9,7 @@
     "collectible": true,
     "cost": 2,
     "text": "아군 하수인을 처치하고 카드를<br></br>3장 뽑습니다.",
-    "attack": 0,
-    "health": 0,
-    "durability": 0,
-    "armor": 0,
-    "flavor": "설명이 필요 없습니다. 간이 완벽하게 돼 있어요!",
     "spellSchool": "FIRE",
-    "portrait": "HS32-017_S.tif:f1a75eca828040c1bd8ea6345f309648",
-    "set": "ISLAND_VACATION",
-    "nativeTags": [
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 2
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 9
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 5
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 1
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      },
-      {
-        "id": 1635,
-        "name": "주문 속성",
-        "value": 2
-      }
-    ],
-    "races": [],
-    "race": "",
-    "classes": [],
-    "art": "art/VAC_939.png"
+    "classes": []
   }
 }

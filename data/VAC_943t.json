@@ -10,59 +10,10 @@
     "text": "<b>도발</b>",
     "attack": 6,
     "health": 6,
-    "durability": 0,
-    "armor": 0,
-    "flavor": "",
-    "spellSchool": "",
-    "portrait": "HS32-022_M.tif:fa955c16f75443e5b9ef21e23a60c2c4",
-    "set": "ISLAND_VACATION",
-    "nativeTags": [
-      {
-        "id": 45,
-        "name": "생명력",
-        "value": 6
-      },
-      {
-        "id": 47,
-        "name": "공격력",
-        "value": 6
-      },
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 6
-      },
-      {
-        "id": 190,
-        "name": "도발",
-        "value": 1
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 9
-      },
-      {
-        "id": 200,
-        "name": "종족",
-        "value": 15
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 4
-      },
-      {
-        "id": 1965,
-        "name": "임프",
-        "value": 1
-      }
-    ],
     "races": [
       "DEMON"
     ],
     "race": "악마",
-    "classes": [],
-    "art": "art/VAC_943t.png"
+    "classes": []
   }
 }

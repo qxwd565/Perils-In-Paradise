@@ -9,49 +9,6 @@
     "collectible": true,
     "cost": 4,
     "text": "생명력을 #4 회복합니다. 은빛 성기사단 신병을 3명 소환합니다. 카드를 2장 뽑습니다.",
-    "attack": 0,
-    "health": 0,
-    "durability": 0,
-    "armor": 0,
-    "flavor": "휴가 준비 마쳤습니다!",
-    "spellSchool": "",
-    "portrait": "HS32-302_S.tif:2350107c8da443bb8bbaf3f396b0833c",
-    "set": "ISLAND_VACATION",
-    "nativeTags": [
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 4
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 5
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 5
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 1
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      },
-      {
-        "id": 1824,
-        "name": "미니 세트",
-        "value": 1
-      }
-    ],
-    "races": [],
-    "race": "",
-    "classes": [],
-    "art": "art/WORK_003.png"
+    "classes": []
   }
 }

@@ -9,54 +9,7 @@
     "collectible": true,
     "cost": 3,
     "text": "<b>생명력 흡수</b><br></br>하수인에게 피해를<br></br>$3 줍니다.<i><br></br>(음료 3잔 남음!)</i>",
-    "attack": 0,
-    "health": 0,
-    "durability": 0,
-    "armor": 0,
-    "flavor": "일일 권장 섭취량 0그램을 초과하지 마십시오.",
     "spellSchool": "FEL",
-    "portrait": "HS32-142_S.tif:ae64e5cd9c4f4d898dcb240f1314ef62",
-    "set": "ISLAND_VACATION",
-    "nativeTags": [
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 3
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 9
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 5
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 3
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      },
-      {
-        "id": 685,
-        "name": "생명력 흡수",
-        "value": 1
-      },
-      {
-        "id": 1635,
-        "name": "주문 속성",
-        "value": 7
-      }
-    ],
-    "races": [],
-    "race": "",
-    "classes": [],
-    "art": "art/VAC_951.png"
+    "classes": []
   }
 }

@@ -10,64 +10,10 @@
     "text": "<b>전투의 함성:</b> 카드를 2장 뽑습니다. 무작위 적 하수인 셋을 <b>빙결</b> 상태로 만듭니다.",
     "attack": 3,
     "health": 3,
-    "durability": 0,
-    "armor": 0,
-    "flavor": "",
-    "spellSchool": "",
-    "portrait": "HS32-164_M.tif:42620bc6ed004941baefe95a1e0085d7",
-    "set": "ISLAND_VACATION",
-    "nativeTags": [
-      {
-        "id": 45,
-        "name": "생명력",
-        "value": 3
-      },
-      {
-        "id": 47,
-        "name": "공격력",
-        "value": 3
-      },
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 3
-      },
-      {
-        "id": 114,
-        "name": "전설 속성",
-        "value": 1
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 8
-      },
-      {
-        "id": 200,
-        "name": "종족",
-        "value": 92
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 4
-      },
-      {
-        "id": 208,
-        "name": "빙결",
-        "value": 1
-      },
-      {
-        "id": 218,
-        "name": "전투의 함성",
-        "value": 1
-      }
-    ],
     "races": [
       "NAGA"
     ],
     "race": "나가",
-    "classes": [],
-    "art": "art/VAC_449t1.png"
+    "classes": []
   }
 }

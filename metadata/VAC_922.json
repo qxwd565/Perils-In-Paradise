@@ -1,0 +1,77 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "VAC_922",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2024-07-24",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2024-07-24": {
+        "flavor": "모든 고리를 지배하고 햇볕으로 구하는 단 하나의 고리.",
+        "portrait": "HS32-137_S.tif:d5f1f6dab07d4aafb92f3cbfcecbf765",
+        "set": "ISLAND_VACATION",
+        "nativeTags": [
+          {
+            "id": 2,
+            "name": "효과 수치 1",
+            "value": 3
+          },
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 1
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 5
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 5
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 3
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          },
+          {
+            "id": 535,
+            "name": "퀘스트 완료 조건",
+            "value": 3
+          },
+          {
+            "id": 1635,
+            "name": "주문 속성",
+            "value": 5
+          },
+          {
+            "id": 1724,
+            "name": "게임 태그 1724",
+            "value": 1
+          },
+          {
+            "id": 2311,
+            "name": "목표",
+            "value": 1
+          },
+          {
+            "id": 3429,
+            "name": "성기사 오라",
+            "value": 1
+          }
+        ],
+        "art": "art/VAC_922.png"
+      }
+    }
+  }
+}

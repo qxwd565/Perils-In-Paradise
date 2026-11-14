@@ -8,44 +8,7 @@
     "collectible": false,
     "cost": 2,
     "text": "하수인을 처치합니다.",
-    "attack": 0,
-    "health": 0,
-    "durability": 0,
-    "armor": 0,
-    "flavor": "",
     "spellSchool": "SHADOW",
-    "portrait": "w11_074_D.psd:a0bdcf1997d1920449f6ba1c6846f110",
-    "set": "ISLAND_VACATION",
-    "nativeTags": [
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 2
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 12
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 5
-      },
-      {
-        "id": 1635,
-        "name": "주문 속성",
-        "value": 6
-      },
-      {
-        "id": 3431,
-        "name": "게임 태그 3431",
-        "value": 1
-      }
-    ],
-    "races": [],
-    "race": "",
-    "classes": [],
-    "art": "art/VAC_464t2.png"
+    "classes": []
   }
 }

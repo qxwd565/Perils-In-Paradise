@@ -11,74 +11,10 @@
     "text": "<b>도발</b>, 이 하수인이 피해를 받을 때마다 동전을 얻습니다.",
     "attack": 3,
     "health": 7,
-    "durability": 0,
-    "armor": 0,
-    "flavor": "돈을 내놓으십시우!",
-    "spellSchool": "",
-    "portrait": "HS32-326_M.tif:21c75546193342db945cffc88a377a4d",
-    "set": "ISLAND_VACATION",
-    "nativeTags": [
-      {
-        "id": 32,
-        "name": "발동 효과 표시",
-        "value": 1
-      },
-      {
-        "id": 45,
-        "name": "생명력",
-        "value": 7
-      },
-      {
-        "id": 47,
-        "name": "공격력",
-        "value": 3
-      },
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 5
-      },
-      {
-        "id": 190,
-        "name": "도발",
-        "value": 1
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 3
-      },
-      {
-        "id": 200,
-        "name": "종족",
-        "value": 20
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 4
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 1
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      },
-      {
-        "id": 1824,
-        "name": "미니 세트",
-        "value": 1
-      }
-    ],
     "races": [
       "BEAST"
     ],
     "race": "야수",
-    "classes": [],
-    "art": "art/WORK_019.png"
+    "classes": []
   }
 }

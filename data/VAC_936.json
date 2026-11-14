@@ -11,65 +11,11 @@
     "text": "하수인에게 8배의<br></br>피해를 줍니다.",
     "attack": 1,
     "health": 8,
-    "durability": 0,
-    "armor": 0,
-    "flavor": "네, 그럼요. 이곳들이 전부 다 혈이랍니다.",
-    "spellSchool": "",
-    "portrait": "HS32-102_M.tif:c4c3917f868b4db4b533d0b9a33dcfdf",
-    "set": "ISLAND_VACATION",
-    "nativeTags": [
-      {
-        "id": 45,
-        "name": "생명력",
-        "value": 8
-      },
-      {
-        "id": 47,
-        "name": "공격력",
-        "value": 1
-      },
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 4
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 12
-      },
-      {
-        "id": 200,
-        "name": "종족",
-        "value": 20
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 4
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 3
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      },
-      {
-        "id": 2539,
-        "name": "게임 태그 2539",
-        "value": 1
-      }
-    ],
     "races": [
       "MECHANICAL",
       "BEAST"
     ],
     "race": "기계, 야수",
-    "classes": [],
-    "art": "art/VAC_936.png"
+    "classes": []
   }
 }

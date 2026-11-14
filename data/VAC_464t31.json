@@ -9,53 +9,7 @@
     "cost": 6,
     "text": "내 영웅이 공격한 후에,<br></br>모든 적에게 피해를<br></br>4 줍니다.",
     "attack": 4,
-    "health": 0,
     "durability": 4,
-    "armor": 0,
-    "flavor": "",
-    "spellSchool": "",
-    "portrait": "HS12-335_W.psd:49f858b4c9900ea4e9d5730eb49a023f",
-    "set": "ISLAND_VACATION",
-    "nativeTags": [
-      {
-        "id": 32,
-        "name": "발동 효과 표시",
-        "value": 1
-      },
-      {
-        "id": 45,
-        "name": "생명력",
-        "value": 4
-      },
-      {
-        "id": 47,
-        "name": "공격력",
-        "value": 4
-      },
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 6
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 12
-      },
-      {
-        "id": 201,
-        "name": "진영",
-        "value": 3
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 7
-      }
-    ],
-    "races": [],
-    "race": "",
-    "classes": [],
-    "art": "art/VAC_464t31.png"
+    "classes": []
   }
 }

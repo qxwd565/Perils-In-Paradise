@@ -9,44 +9,6 @@
     "collectible": true,
     "cost": 8,
     "text": "무작위 적 하수인 둘을 처치합니다. 내가 낸 다른 직업의 카드 하나당 비용이 (1)씩 감소합니다. ",
-    "attack": 0,
-    "health": 0,
-    "durability": 0,
-    "armor": 0,
-    "flavor": "스내치는 간식을 집고 그랩은 음식을 채 갔습니다. 완벽한 조합이네요.",
-    "spellSchool": "",
-    "portrait": "HS32-138_S.tif:86274fa0040a4f819dd064c387ac3dff",
-    "set": "ISLAND_VACATION",
-    "nativeTags": [
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 8
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 7
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 5
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 4
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      }
-    ],
-    "races": [],
-    "race": "",
-    "classes": [],
-    "art": "art/VAC_700.png"
+    "classes": []
   }
 }

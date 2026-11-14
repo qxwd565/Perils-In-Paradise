@@ -11,79 +11,10 @@
     "text": "<b>전투의 함성:</b> 아군 하수인에게 <b>생명력 흡수</b>를 부여합니다.",
     "attack": 3,
     "health": 2,
-    "durability": 0,
-    "armor": 0,
-    "flavor": "666개월 연속 이달의 우수 임프로 선정되었습니다.",
-    "spellSchool": "",
-    "portrait": "HS32-310_M.tif:e529abc6a5c248349fdf212537356132",
-    "set": "ISLAND_VACATION",
-    "nativeTags": [
-      {
-        "id": 45,
-        "name": "생명력",
-        "value": 2
-      },
-      {
-        "id": 47,
-        "name": "공격력",
-        "value": 3
-      },
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 2
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 9
-      },
-      {
-        "id": 200,
-        "name": "종족",
-        "value": 15
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 4
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 1
-      },
-      {
-        "id": 218,
-        "name": "전투의 함성",
-        "value": 1
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      },
-      {
-        "id": 685,
-        "name": "생명력 흡수",
-        "value": 1
-      },
-      {
-        "id": 1824,
-        "name": "미니 세트",
-        "value": 1
-      },
-      {
-        "id": 1965,
-        "name": "임프",
-        "value": 1
-      }
-    ],
     "races": [
       "DEMON"
     ],
     "race": "악마",
-    "classes": [],
-    "art": "art/WORK_009.png"
+    "classes": []
   }
 }

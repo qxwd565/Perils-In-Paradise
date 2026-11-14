@@ -9,49 +9,6 @@
     "collectible": true,
     "cost": 4,
     "text": "바나나 8개를 내 손으로<br></br>가져옵니다. 가져오지 못한<br></br>바나나는 전장에 있는 아군<br></br>하수인들에게 무작위로<br></br>먹입니다.",
-    "attack": 0,
-    "health": 0,
-    "durability": 0,
-    "armor": 0,
-    "flavor": "아침에 3개, 저녁에 4개 주면 될까요?",
-    "spellSchool": "",
-    "portrait": "HS32-327_S.tif:2ea7ca6a82ad410a8e1549f5727b1a75",
-    "set": "ISLAND_VACATION",
-    "nativeTags": [
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 4
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 3
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 5
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 3
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      },
-      {
-        "id": 1824,
-        "name": "미니 세트",
-        "value": 1
-      }
-    ],
-    "races": [],
-    "race": "",
-    "classes": [],
-    "art": "art/WORK_020.png"
+    "classes": []
   }
 }

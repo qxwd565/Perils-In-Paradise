@@ -9,54 +9,7 @@
     "collectible": true,
     "cost": 1,
     "text": "하수인에게 피해를 $2 줍니다. 내 영웅에게 피해를 $2 줍니다.<br></br><i>(음료 3잔 남음!)</i>",
-    "attack": 0,
-    "health": 0,
-    "durability": 0,
-    "armor": 0,
-    "flavor": "고급 차일까요, 치명적인 독일까요?",
     "spellSchool": "SHADOW",
-    "portrait": "HS32-172_S.tif:303cd9012e24486c9703a261a52e6c14",
-    "set": "ISLAND_VACATION",
-    "nativeTags": [
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 1
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 6
-      },
-      {
-        "id": 201,
-        "name": "진영",
-        "value": 3
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 5
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 3
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      },
-      {
-        "id": 1635,
-        "name": "주문 속성",
-        "value": 6
-      }
-    ],
-    "races": [],
-    "race": "",
-    "classes": [],
-    "art": "art/VAC_404.png"
+    "classes": []
   }
 }

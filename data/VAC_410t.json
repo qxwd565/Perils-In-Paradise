@@ -10,59 +10,10 @@
     "text": "공격할 때 <b>면역</b> 상태가 됩니다.",
     "attack": 3,
     "health": 3,
-    "durability": 0,
-    "armor": 0,
-    "flavor": "",
-    "spellSchool": "",
-    "portrait": "HS32-046_M.tif:86b95fcf423d450e97c68689073590be",
-    "set": "ISLAND_VACATION",
-    "nativeTags": [
-      {
-        "id": 45,
-        "name": "생명력",
-        "value": 3
-      },
-      {
-        "id": 47,
-        "name": "공격력",
-        "value": 3
-      },
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 3
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 3
-      },
-      {
-        "id": 200,
-        "name": "종족",
-        "value": 20
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 4
-      },
-      {
-        "id": 240,
-        "name": "면역",
-        "value": 1
-      },
-      {
-        "id": 373,
-        "name": "공격 중 면역",
-        "value": 1
-      }
-    ],
     "races": [
       "BEAST"
     ],
     "race": "야수",
-    "classes": [],
-    "art": "art/VAC_410t.png"
+    "classes": []
   }
 }

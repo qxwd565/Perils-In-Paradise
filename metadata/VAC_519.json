@@ -1,0 +1,97 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "VAC_519",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2024-07-24",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2024-07-24": {
+        "flavor": "주민등록상 이름은 비스터입니다.",
+        "portrait": "HS32-067_M.tif:5550550d548d406ea19e700b74119932",
+        "set": "ISLAND_VACATION",
+        "nativeTags": [
+          {
+            "id": 45,
+            "name": "생명력",
+            "value": 5
+          },
+          {
+            "id": 47,
+            "name": "공격력",
+            "value": 5
+          },
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 5
+          },
+          {
+            "id": 114,
+            "name": "전설 속성",
+            "value": 1
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 2
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 4
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 5
+          },
+          {
+            "id": 218,
+            "name": "전투의 함성",
+            "value": 1
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          },
+          {
+            "id": 1724,
+            "name": "게임 태그 1724",
+            "value": 1
+          },
+          {
+            "id": 2589,
+            "name": "간판 카드 존재",
+            "value": 1
+          },
+          {
+            "id": 2936,
+            "name": "게임 태그 2936",
+            "value": 1
+          },
+          {
+            "id": 3228,
+            "name": "관광객",
+            "value": 4
+          },
+          {
+            "id": 3606,
+            "name": "마법사 관광객",
+            "value": 1
+          },
+          {
+            "id": 4357,
+            "name": "게임 태그 4357",
+            "value": 1
+          }
+        ],
+        "art": "art/VAC_519.png"
+      }
+    }
+  }
+}

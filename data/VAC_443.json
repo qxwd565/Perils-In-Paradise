@@ -11,74 +11,10 @@
     "text": "<b>전투의 함성:</b><br></br>내가 뽑는 다음 주문은<br></br><b>뽑을 때 시전</b>됩니다.",
     "attack": 4,
     "health": 4,
-    "durability": 0,
-    "armor": 0,
-    "flavor": "안녕하십니까! 문어 전문가인데, 이건 웃을 일이 아닙니다. 문어가 이러는 건 통돌이를 당했을 때뿐이거든요.",
-    "spellSchool": "",
-    "portrait": "HS32-071_M.tif:62f03cb2bd3a460f80d8e6a1c3434aff",
-    "set": "ISLAND_VACATION",
-    "nativeTags": [
-      {
-        "id": 45,
-        "name": "생명력",
-        "value": 4
-      },
-      {
-        "id": 47,
-        "name": "공격력",
-        "value": 4
-      },
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 5
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 4
-      },
-      {
-        "id": 200,
-        "name": "종족",
-        "value": 20
-      },
-      {
-        "id": 201,
-        "name": "진영",
-        "value": 3
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 4
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 3
-      },
-      {
-        "id": 218,
-        "name": "전투의 함성",
-        "value": 1
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      },
-      {
-        "id": 1077,
-        "name": "뽑을 때 시전",
-        "value": 1
-      }
-    ],
     "races": [
       "BEAST"
     ],
     "race": "야수",
-    "classes": [],
-    "art": "art/VAC_443.png"
+    "classes": []
   }
 }

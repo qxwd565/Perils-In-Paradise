@@ -9,49 +9,7 @@
     "collectible": true,
     "cost": 3,
     "text": "모든 적에게 피해를 $2 줍니다. 이번 턴에<br></br>내 영웅이 피해를 받았으면, 피해를 $1 더 줍니다.",
-    "attack": 0,
-    "health": 0,
-    "durability": 0,
-    "armor": 0,
-    "flavor": "말을 진짜 안 듣는 아이가 겨울 할아버지에게 받는 선물입니다.",
     "spellSchool": "FIRE",
-    "portrait": "HS32-175_S.tif:78e377da749e48b0a47da25e1547cc41",
-    "set": "ISLAND_VACATION",
-    "nativeTags": [
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 3
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 6
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 5
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 1
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      },
-      {
-        "id": 1635,
-        "name": "주문 속성",
-        "value": 2
-      }
-    ],
-    "races": [],
-    "race": "",
-    "classes": [],
-    "art": "art/VAC_414.png"
+    "classes": []
   }
 }

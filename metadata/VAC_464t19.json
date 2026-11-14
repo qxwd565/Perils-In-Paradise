@@ -1,0 +1,47 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "VAC_464t19",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2024-07-24",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2024-07-24": {
+        "flavor": "",
+        "portrait": "HS17-225.tif:0995fe0f60ca4d72b42111df3c0623f3",
+        "set": "ISLAND_VACATION",
+        "nativeTags": [
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 4
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 12
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 5
+          },
+          {
+            "id": 1635,
+            "name": "주문 속성",
+            "value": 1
+          },
+          {
+            "id": 3431,
+            "name": "게임 태그 3431",
+            "value": 1
+          }
+        ],
+        "art": "art/VAC_464t19.png"
+      }
+    }
+  }
+}

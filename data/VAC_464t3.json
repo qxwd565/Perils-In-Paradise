@@ -8,49 +8,7 @@
     "collectible": false,
     "cost": 2,
     "text": "하수인에게 +4/+4와 <b>도발</b>을 부여합니다.",
-    "attack": 0,
-    "health": 0,
-    "durability": 0,
-    "armor": 0,
-    "flavor": "",
     "spellSchool": "NATURE",
-    "portrait": "W16_a064_D.psd:df0b6fbbf1627c443af88efdb4f895ae",
-    "set": "ISLAND_VACATION",
-    "nativeTags": [
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 2
-      },
-      {
-        "id": 190,
-        "name": "도발",
-        "value": 1
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 12
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 5
-      },
-      {
-        "id": 1635,
-        "name": "주문 속성",
-        "value": 4
-      },
-      {
-        "id": 3431,
-        "name": "게임 태그 3431",
-        "value": 1
-      }
-    ],
-    "races": [],
-    "race": "",
-    "classes": [],
-    "art": "art/VAC_464t3.png"
+    "classes": []
   }
 }

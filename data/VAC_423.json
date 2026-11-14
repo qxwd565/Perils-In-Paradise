@@ -11,62 +11,6 @@
     "text": "<b>도발</b>, <b>전투의 함성:</b><br></br>내 다음 카드의 비용을 (0)으로 만듭니다.",
     "attack": 4,
     "health": 5,
-    "durability": 0,
-    "armor": 0,
-    "flavor": "이 황혼은 너무 어두워. 이 황혼은 너무 밝고. 그런데 이 황혼은... 딱 좋아!",
-    "spellSchool": "",
-    "portrait": "HS32-176_M.tif:f8677946660f40ed987eca8b77088091",
-    "set": "ISLAND_VACATION",
-    "nativeTags": [
-      {
-        "id": 45,
-        "name": "생명력",
-        "value": 5
-      },
-      {
-        "id": 47,
-        "name": "공격력",
-        "value": 4
-      },
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 5
-      },
-      {
-        "id": 190,
-        "name": "도발",
-        "value": 1
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 6
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 4
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 4
-      },
-      {
-        "id": 218,
-        "name": "전투의 함성",
-        "value": 1
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      }
-    ],
-    "races": [],
-    "race": "",
-    "classes": [],
-    "art": "art/VAC_423.png"
+    "classes": []
   }
 }

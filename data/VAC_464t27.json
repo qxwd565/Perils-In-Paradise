@@ -10,57 +10,6 @@
     "text": "<b>속공</b><br></br>이 하수인은 다른 하수인을<br></br>공격하고 생존한 후에, 8/8<br></br>하수인으로 변신합니다.",
     "attack": 2,
     "health": 6,
-    "durability": 0,
-    "armor": 0,
-    "flavor": "",
-    "spellSchool": "",
-    "portrait": "HS13-108_M.psd:caf29f137dd473e45803c85d46249bae",
-    "set": "ISLAND_VACATION",
-    "nativeTags": [
-      {
-        "id": 32,
-        "name": "발동 효과 표시",
-        "value": 1
-      },
-      {
-        "id": 45,
-        "name": "생명력",
-        "value": 6
-      },
-      {
-        "id": 47,
-        "name": "공격력",
-        "value": 2
-      },
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 3
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 12
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 4
-      },
-      {
-        "id": 791,
-        "name": "속공",
-        "value": 1
-      },
-      {
-        "id": 3431,
-        "name": "게임 태그 3431",
-        "value": 1
-      }
-    ],
-    "races": [],
-    "race": "",
-    "classes": [],
-    "art": "art/VAC_464t27.png"
+    "classes": []
   }
 }

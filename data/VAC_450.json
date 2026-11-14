@@ -11,105 +11,11 @@
     "text": "<b>악마사냥꾼 관광객</b><br></br>아군 하수인이 죽은 후에, 비용이 (1) 높은 무작위 하수인을 소환합니다.",
     "attack": 2,
     "health": 2,
-    "durability": 0,
-    "armor": 0,
-    "flavor": "촉촉하고 편안하며, 솥에 들어 있습니다.",
-    "spellSchool": "",
-    "portrait": "HS32-028_M.tif:d4844a9775004e5a884762b151d676f7",
-    "set": "ISLAND_VACATION",
-    "nativeTags": [
-      {
-        "id": 32,
-        "name": "발동 효과 표시",
-        "value": 1
-      },
-      {
-        "id": 45,
-        "name": "생명력",
-        "value": 2
-      },
-      {
-        "id": 47,
-        "name": "공격력",
-        "value": 2
-      },
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 3
-      },
-      {
-        "id": 114,
-        "name": "전설 속성",
-        "value": 1
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 8
-      },
-      {
-        "id": 200,
-        "name": "종족",
-        "value": 14
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 4
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 5
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      },
-      {
-        "id": 1724,
-        "name": "게임 태그 1724",
-        "value": 1
-      },
-      {
-        "id": 2522,
-        "name": "게임 태그 2522",
-        "value": 1
-      },
-      {
-        "id": 2589,
-        "name": "간판 카드 존재",
-        "value": 1
-      },
-      {
-        "id": 2936,
-        "name": "게임 태그 2936",
-        "value": 1
-      },
-      {
-        "id": 3228,
-        "name": "관광객",
-        "value": 14
-      },
-      {
-        "id": 3601,
-        "name": "악마사냥꾼 관광객",
-        "value": 1
-      },
-      {
-        "id": 4357,
-        "name": "게임 태그 4357",
-        "value": 1
-      }
-    ],
     "races": [
       "MURLOC",
       "PIRATE"
     ],
     "race": "멀록, 해적",
-    "classes": [],
-    "art": "art/VAC_450.png"
+    "classes": []
   }
 }

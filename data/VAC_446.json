@@ -11,62 +11,6 @@
     "text": "내 턴이 끝날 때, 공격하지 않은 다른 모든 아군 하수인에게 +2/+2을 부여합니다.",
     "attack": 0,
     "health": 5,
-    "durability": 0,
-    "armor": 0,
-    "flavor": "난 이거 마시느라 바빠.",
-    "spellSchool": "",
-    "portrait": "HS32-107_M.tif:7f82f133185a4b37bfe32c2653034f23",
-    "set": "ISLAND_VACATION",
-    "nativeTags": [
-      {
-        "id": 32,
-        "name": "발동 효과 표시",
-        "value": 1
-      },
-      {
-        "id": 45,
-        "name": "생명력",
-        "value": 5
-      },
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 5
-      },
-      {
-        "id": 114,
-        "name": "전설 속성",
-        "value": 1
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 12
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 4
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 5
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      },
-      {
-        "id": 1932,
-        "name": "다이아몬드 카드 존재",
-        "value": 1
-      }
-    ],
-    "races": [],
-    "race": "",
-    "classes": [],
-    "art": "art/VAC_446.png"
+    "classes": []
   }
 }

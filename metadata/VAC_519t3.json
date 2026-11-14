@@ -1,0 +1,52 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "VAC_519t3",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2024-07-24",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2024-07-24": {
+        "flavor": "",
+        "portrait": "HS32-070_S.tif:54b84a795122466891933dc39f731eb0",
+        "set": "ISLAND_VACATION",
+        "nativeTags": [
+          {
+            "id": 3,
+            "name": "효과 수치 2",
+            "value": 9239875
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 2
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 5
+          },
+          {
+            "id": 402,
+            "name": "능력치 숨김",
+            "value": 1
+          },
+          {
+            "id": 535,
+            "name": "퀘스트 완료 조건",
+            "value": 3
+          },
+          {
+            "id": 2311,
+            "name": "목표",
+            "value": 1
+          }
+        ],
+        "art": "art/VAC_519t3.png"
+      }
+    }
+  }
+}

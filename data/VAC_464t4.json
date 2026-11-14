@@ -9,53 +9,7 @@
     "cost": 1,
     "text": "이 무기에 공격을<br></br>받은 하수인을 <b>침묵</b>시킵니다.",
     "attack": 3,
-    "health": 0,
     "durability": 3,
-    "armor": 0,
-    "flavor": "",
-    "spellSchool": "",
-    "portrait": "HS13-345_W.psd:09ad81cbcaa31d74e8c1dd5427f73b46",
-    "set": "ISLAND_VACATION",
-    "nativeTags": [
-      {
-        "id": 45,
-        "name": "생명력",
-        "value": 3
-      },
-      {
-        "id": 47,
-        "name": "공격력",
-        "value": 3
-      },
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 1
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 12
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 7
-      },
-      {
-        "id": 339,
-        "name": "침묵",
-        "value": 1
-      },
-      {
-        "id": 3431,
-        "name": "게임 태그 3431",
-        "value": 1
-      }
-    ],
-    "races": [],
-    "race": "",
-    "classes": [],
-    "art": "art/VAC_464t4.png"
+    "classes": []
   }
 }
